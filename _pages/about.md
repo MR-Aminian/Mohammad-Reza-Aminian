@@ -15,7 +15,7 @@ I have always been a math enthusiast - alongside my other interests, which I hav
 Research Interests
 ------------------
 
-My research interests are broadly on Algorithms, Game Theory, Learning Theory, and Optimization. 
+Broadly speaking, my research interests are in CS (TCS & Learning), Operations, and Economics (micro). In particular, I am passionate about such areas as (Online) Algorithms, Game Theory, Learning Theory (Online Learning), and Optimization. 
 
 
 Site-wide configuration
