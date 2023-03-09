@@ -8,8 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal academic website. I'm Mohammad Reza, a 2nd year Ph.D. student in the Management Sciences / Operations Management area at the University of Chicago, Booth School of Business, where I am very glad to have Prof. Rad Niazadeh as my advisor. 
+Welcome to my personal academic website. I'm Mohammad Reza, a 2nd year Ph.D. student in the Management Sciences / Operations Management area at the University of Chicago, Booth School of Business, where I am very glad to have Prof. Rad Niazadeh as my advisor. Prior to that, I received my B.Sc. degree in both Electrical Engineering and Computer Science from Sharif University of Technology.
 
+Research Interests
+==================
+
+My research interests are broadly on Algorithms, Game Theory, Learning Theory, and Optimization. 
 
 
 Site-wide configuration
