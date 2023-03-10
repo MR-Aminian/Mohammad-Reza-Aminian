@@ -184,6 +184,9 @@ collections:
   misc:
     output: true
     permalink: /:collection/:path/
+  awards:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -234,6 +237,15 @@ defaults:
   - scope:
       path: ""
       type: misc
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _awards
+  - scope:
+      path: ""
+      type: awards
     values:
       layout: single
       author_profile: true
