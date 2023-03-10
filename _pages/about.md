@@ -24,6 +24,7 @@ Contact
 
 Email: Mr [dot] Aminian 1999 [at] gmail [dot] com
 
+You can also use the side bar options to connect to me via social media! (but the quickest way would still be the email almost surely!)
 
 <!-- 
 Create content & metadata
