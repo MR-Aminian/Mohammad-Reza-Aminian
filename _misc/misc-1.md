@@ -1,6 +1,6 @@
 ---
 title: "Some other interests!"
-excerpt: ""
+excerpt: "h"
 collection: misc
 ---
 
