@@ -25,5 +25,5 @@ Some of my hobbies are:
 * watching movie and anime,
 * and last but not least, traveling! 
 
-I have always been a math enthusiast - alongside my other interests - and because of that I attended many math competitions both nationally and internationally, and, most importantly, got to enjoy visiting quite a few other countries!
+I have always been a math enthusiast - alongside my other interests - and because of that I attended several math competitions both nationally as well as internationally, and, most importantly, got to enjoy visiting quite a few other countries!
 
