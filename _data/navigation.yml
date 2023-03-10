@@ -12,11 +12,12 @@ main:
   #- title: "Portfolio"
   #  url: /portfolio/
   
+  - title: "Honors and Awards"
+    url: /awards/
+
   - title: "Misc"
     url: /misc/
         
-  - title: "Honors and Awards"
-    url: /awards/
 
   #- title: "Blog Posts"
   #  url: /year-archive/
