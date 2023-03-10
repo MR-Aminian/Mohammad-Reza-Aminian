@@ -15,7 +15,7 @@ Welcome to my personal academic website. I'm Mohammad Reza, a 2nd year Ph.D. stu
 Research Interests
 ------------------
 
-Broadly speaking, my research interests are in CS (TCS & Learning), Operations, and Economics (micro). In particular, I am passionate about such areas as (Online) Algorithms, Game Theory, Learning Theory (Online Learning), and Optimization. 
+Broadly speaking, my research interests are in CS (TCS & Learning), Operations, and Economics (Micro). In particular, I am passionate about such areas as (Online) Algorithms, Game Theory, Learning Theory (Online Learning), and Optimization. 
 
 
 Create content & metadata
