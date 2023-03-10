@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
+title: "Some other interests!"
+excerpt: ""
+collection: misc
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+I have always been a math enthusiast - alongside my other interests, which I have mentioned some of them in the Misc tab, if you are curious ;) - and because of that I attended many math competitions both nationally and internationally, and, most importantly, got to enjoy visiting quite a few other countries!
