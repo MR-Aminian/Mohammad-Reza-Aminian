@@ -14,7 +14,7 @@ author_profile: true
 
 Teaching Experience:
 --------------------
-* T.A. for the Managerial Decision Modeling Undergraduate course at Chicago Booth (2 sections)
+* T.A. for the Managerial Decision Modeling undergraduate course at Chicago Booth (2 sections)
 * T.A. for the Linear Programmig Ph.D. course at Chicago Booth
 
 
