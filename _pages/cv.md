@@ -1,11 +1,10 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /files/MRA's CV.pdf
 author_profile: true
 redirect_from:
   - /resume
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 ---
 
 {% include base_path %}
