@@ -25,17 +25,28 @@ Publications:
 Working Papers:
 ---------------
 
-* Fair Markovian Search:  
-Incorporating demographic parity fairness notion in different aspects and variations of the sequential search problem, SSRN: 4347447.  
-Co-authors: Vahideh Manshadi (Yale SOM), Rad Niazadeh (Chicago Booth)
+* Real-Time Personalized Order Holding
+Designing practical approximation algorithms for the online order holding problem to enjoy the benefits of catching cancellations and multiorder consolidations.
+Co-authors: Prof. Will Ma (Columbia GSB), Prof. Linwei Xin (Chicago Booth)
+
+* Markovian Search with Socially Aware Constraints
+Incorporating ex-ante constraints in different aspects and variations of the sequential search problem. SSRN: 4347447
+Co-authors: Prof. Vahideh Manshadi (Yale SOM), Prof. Rad Niazadeh (Chicago Booth)
+• Finalist, Service Science Best Student Paper Award, INFORMS Annual Meeting 2023
+
+<!-- * Fair Markovian Search:   -->
+<!-- Incorporating demographic parity fairness notion in different aspects and variations of the sequential search problem, SSRN: 4347447.   -->
+<!-- Co-authors: Vahideh Manshadi (Yale SOM), Rad Niazadeh (Chicago Booth) -->
 
 
 Ongoing Projects:
 -----------------
 
-* Order Consolidation:  
-Finding an approximation algorithm for order consolidation with a tight competitive ratio.  
-Co-authors: Will Ma (Columbia GSB), Linwei Xin (Chicago Booth)
+
+
+<!-- * Order Consolidation:   -->
+<!-- Finding an approximation algorithm for order consolidation with a tight competitive ratio.   -->
+<!-- Co-authors: Will Ma (Columbia GSB), Linwei Xin (Chicago Booth) -->
 
 
 Earlier Research:
