@@ -33,6 +33,6 @@ Selected Honors and Awards (since 2012)
 * Selected as a member of the Iranian Team at International Zhautykov Olympiad (IZHO), Iran, 2013
 * Gold medalist at 14th National Mathematics Competition (BIMC), Iran, 2013
 * Gold medalist at 3rd Mathematical Olympiad of Iranian Teenagers, Iran, 2013
-* Merit medalist at *International Mathematics Competition (TAIMC), Taiwan, 2012
+* Merit medalist at International Mathematics Competition (TAIMC), Taiwan, 2012
 * Gold medalist at 13th National Mathematics Competition (TAIMC), Iran, 2012
 
