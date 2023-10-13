@@ -30,12 +30,12 @@ Working Papers:
 
 * Real-Time Personalized Order Holding:\
 Designing practical approximation algorithms for the online order holding problem to enjoy the benefits of catching cancellations and multiorder consolidations.\
-Co-authors: Prof. Will Ma (Columbia GSB), Prof. Linwei Xin (Chicago Booth)\
+Co-authors: Prof. Will Ma (Columbia GSB), Prof. Linwei Xin (Chicago Booth)
 
 * Markovian Search with Socially Aware Constraints:\
 Incorporating ex-ante constraints in different aspects and variations of the sequential search problem. SSRN: 4347447\
 Co-authors: Prof. Vahideh Manshadi (Yale SOM), Prof. Rad Niazadeh (Chicago Booth)\
-• Finalist, Service Science Best Student Paper Award, INFORMS Annual Meeting 2023\
+  * Finalist, Service Science Best Student Paper Award, INFORMS Annual Meeting 2023
 
 <!-- * Fair Markovian Search:   -->
 <!-- Incorporating demographic parity fairness notion in different aspects and variations of the sequential search problem, SSRN: 4347447.   -->
@@ -58,12 +58,12 @@ Earlier Research:
 
 * Research Assistant at the Sharif University of Technology, Tehran, Iran.\
 Graph Auto-Encoder with capability of reconstructing any weighted adjacency matrix.\
-Supervisor: Saber Saleh Kaleybar\
+Supervisor: Saber Saleh Kaleybar
 
 * Research Assistant at the Sharif University of Technology, Tehran, Iran.\
 Finding the maximum flow spanning tree when each node has a limitation on the sum of the power usages of its descendants on the spanning tree divided by its degree.\
-Supervisor: Saber Saleh Kaleybar\
+Supervisor: Saber Saleh Kaleybar
 
 * Research Assistant at Ambient Intelligence Research Lab (AIR Lab), Sharif Uni- versity of Technology, Tehran, Iran.\
 Signal Processing on the EEG data.\
-Supervisor: Hamid K. Aghajan\
+Supervisor: Hamid K. Aghajan
