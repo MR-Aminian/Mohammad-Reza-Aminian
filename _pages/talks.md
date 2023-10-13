@@ -19,15 +19,17 @@ author_profile: true
 
 <!-- * Fair Markovian Search, Informs 22, Indianapolis, IN, USA -->
 
-* Real-Time Personalized Order Holding:
-  INFORMS 2023, Phoenix, AZ, USA
-  ChicagoBooth Operations Day 2023, Chicago, IL, USA
-  MOPTA 2023, Bethlehem, PA, USA
-  MIW 2023, Virtual
-* Markovian Search with Socially Aware Constraints:
-  INFORMS 2023, Phoenix, AZ, USA
-  RMP 2023, Presented by Rad Niazadeh, London, UK
-  EC 2023, Poster, Virtual
-  MIW 2023, Virtual
-  NYC OPS Day 2023, Poster, NYC, NY, USA
-  INFORMS 2022, Indianapolis, IN, USA
+* Real-Time Personalized Order Holding:\
+  INFORMS 2023, Phoenix, AZ, USA\
+  ChicagoBooth Operations Day 2023, Chicago, IL, USA\
+  MOPTA 2023, Bethlehem, PA, USA\
+  MIW 2023, Virtual\
+
+
+* Markovian Search with Socially Aware Constraints:\
+  INFORMS 2023, Phoenix, AZ, USA\
+  RMP 2023, Presented by Rad Niazadeh, London, UK\
+  EC 2023, Poster, Virtual\
+  MIW 2023, Virtual\
+  NYC OPS Day 2023, Poster, NYC, NY, USA\
+  INFORMS 2022, Indianapolis, IN, USA\
