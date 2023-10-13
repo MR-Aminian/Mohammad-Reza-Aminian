@@ -21,15 +21,18 @@ author_profile: true
 Publications:
 -------------
 
+TBD
+
+
 
 Working Papers:
 ---------------
 
-* Real-Time Personalized Order Holding
+* Real-Time Personalized Order Holding:
 Designing practical approximation algorithms for the online order holding problem to enjoy the benefits of catching cancellations and multiorder consolidations.
 Co-authors: Prof. Will Ma (Columbia GSB), Prof. Linwei Xin (Chicago Booth)
 
-* Markovian Search with Socially Aware Constraints
+* Markovian Search with Socially Aware Constraints:
 Incorporating ex-ante constraints in different aspects and variations of the sequential search problem. SSRN: 4347447
 Co-authors: Prof. Vahideh Manshadi (Yale SOM), Prof. Rad Niazadeh (Chicago Booth)
 • Finalist, Service Science Best Student Paper Award, INFORMS Annual Meeting 2023
@@ -42,6 +45,7 @@ Co-authors: Prof. Vahideh Manshadi (Yale SOM), Prof. Rad Niazadeh (Chicago Booth
 Ongoing Projects:
 -----------------
 
+TBA
 
 
 <!-- * Order Consolidation:   -->
