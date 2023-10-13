@@ -30,6 +30,6 @@ Work Experience:
 Designing a Graph Auto-Encoder with capability of reconstructing any weighted adjacency matrix\
 Supervisor: Prof. Saber Saleh Kaleybar
 
-* 2017: Research Assistant at Ambient Intelligence Research Lab (AIR Lab), Sharif Uni- versity of Technology, Tehran, Iran.\
+* 2017: Research Assistant at Ambient Intelligence Research Lab (AIR Lab), Sharif University of Technology, Tehran, Iran.\
 Signal Processing on the EEG data\
 Supervisor: Prof. Hamid K. Aghajan

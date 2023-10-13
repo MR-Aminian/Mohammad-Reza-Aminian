@@ -64,6 +64,6 @@ Supervisor: Saber Saleh Kaleybar
 Finding the maximum flow spanning tree when each node has a limitation on the sum of the power usages of its descendants on the spanning tree divided by its degree.\
 Supervisor: Saber Saleh Kaleybar
 
-* Research Assistant at Ambient Intelligence Research Lab (AIR Lab), Sharif Uni- versity of Technology, Tehran, Iran.\
+* Research Assistant at Ambient Intelligence Research Lab (AIR Lab), Sharif University of Technology, Tehran, Iran.\
 Signal Processing on the EEG data.\
 Supervisor: Hamid K. Aghajan
