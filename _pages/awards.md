@@ -17,7 +17,7 @@ author_profile: true
 
 Selected Honors and Awards (since 2012)
 ---------------------------------------
-* Third Place, Service Science Best Student Paper Award, INFORMS Annual Meeting, 2023
+* Third Place, IBM Service Science Best Student Paper Award, INFORMS Annual Meeting, 2023
 * K.D.M. Fellowship Award,The University of Chicago, Booth School of Business, 2021 - 2023
 * Booth Doctoral Fellowship Award,The University of Chicago, Booth School of Business, 2021 - 2027
 * Top Second Prize Winner at International Mathematics Competition for univer- sity students, Bulgaria, 2019

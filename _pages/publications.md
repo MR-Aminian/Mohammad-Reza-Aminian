@@ -35,7 +35,7 @@ Working Papers:
 * Markovian Search with Socially Aware Constraints:\
   Incorporating ex-ante constraints in different aspects and variations of the sequential search problem. SSRN: 4347447\
   Co-authors: Prof. Vahideh Manshadi (Yale SOM), Prof. Rad Niazadeh (Chicago Booth)
-  * Third Place, Service Science Best Student Paper Award, INFORMS Annual Meeting 2023
+  * Third Place, IBM Service Science Best Student Paper Award, INFORMS Annual Meeting 2023
 
 <!-- * Fair Markovian Search:   -->
 <!-- Incorporating demographic parity fairness notion in different aspects and variations of the sequential search problem, SSRN: 4347447.   -->
