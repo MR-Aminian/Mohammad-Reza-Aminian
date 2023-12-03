@@ -29,7 +29,7 @@ Working Papers:
 ---------------
 
 * Real-Time Personalized Order Holding:\
-  Designing practical approximation algorithms for the online order holding problem to enjoy the benefits of catching cancellations and multiorder consolidations.\
+  Designing practical approximation algorithms for the online order holding problem to enjoy the benefits of catching cancellations and multiorder consolidations. SSRN: 4644495\
   Co-authors: Prof. Will Ma (Columbia GSB), Prof. Linwei Xin (Chicago Booth)
 
 * Markovian Search with Socially Aware Constraints:\
