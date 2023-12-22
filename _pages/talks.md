@@ -27,6 +27,7 @@ author_profile: true
 
 
 * Markovian Search with Socially Aware Constraints:\
+  * Columbia Workshop on Fairness 2023, Poster, NYC, NY, USA
   * INFORMS 2023, Phoenix, AZ, USA
   * RMP 2023, Presented by Rad Niazadeh, London, UK
   * EC 2023, Poster, Virtual
