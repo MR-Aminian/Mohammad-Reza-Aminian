@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Greetings!"
-meta name="google-site-verification" content="7llBgV3dOtYJqPFk190VXTfRs4Ga_FJ6ex2t2MqTtCw"
+google-site-verification: "7llBgV3dOtYJqPFk190VXTfRs4Ga_FJ6ex2t2MqTtCw"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
