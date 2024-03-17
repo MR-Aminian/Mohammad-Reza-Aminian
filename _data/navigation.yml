@@ -23,8 +23,7 @@ main:
   #  url: /year-archive/
     
   - title: "CV"
-    window.open(/files/MRA's CV.pdf, '_blank').focus();
-    # url: /files/MRA's CV.pdf # /cv/
+    url: /files/MRA's CV.pdf # /cv/
     
   #- title: "Guide"
   #  url: /markdown/
