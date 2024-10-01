@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal academic website. I'm Mohammad Reza, a 3rd year Ph.D. student in the Management Sciences / Operations Management area at the University of Chicago, Booth School of Business, where I am very glad to have Prof. Rad Niazadeh as my advisor. Prior to that, I received my B.Sc. degrees in both Electrical Engineering and Computer Science from Sharif University of Technology. 
+Welcome to my personal academic website. I'm Mohammad Reza, a 4th year Ph.D. student in the Management Sciences / Operations Management area at the University of Chicago, Booth School of Business, where I am very glad to have Prof. Rad Niazadeh as my advisor. Prior to that, I received my B.Sc. degrees in both Electrical Engineering and Computer Science from Sharif University of Technology. 
 
 
 

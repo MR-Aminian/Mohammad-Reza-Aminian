@@ -18,10 +18,10 @@ author_profile: true
 
 
 
-Publications:
+<!-- Publications:
 -------------
 
-TBD
+TBD -->
 
 
 
@@ -45,7 +45,7 @@ Working Papers:
 Ongoing Projects:
 -----------------
 
-TBA
+* Assortment Optimization of Reusable Resources
 
 
 <!-- * Order Consolidation:   -->
