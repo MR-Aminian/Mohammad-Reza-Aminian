@@ -30,11 +30,11 @@ Working Papers:
 
 * [Real-Time Personalized Order Holding](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4644495):\
   Designing practical approximation algorithms for the online order holding problem to enjoy the benefits of catching cancellations and multiorder consolidations. SSRN: 4644495\
-  Co-authors: Prof. Will Ma (Columbia GSB), Prof. Linwei Xin (Chicago Booth)
+  with Will Ma (Columbia GSB) and Linwei Xin (Chicago Booth)
 
 * [Markovian Search with Socially Aware Constraints](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4347447):\
   Incorporating ex-ante constraints in different aspects and variations of the sequential search problem. SSRN: 4347447\
-  Co-authors: Prof. Vahideh Manshadi (Yale SOM), Prof. Rad Niazadeh (Chicago Booth)
+  with Vahideh Manshadi (Yale SOM) and Rad Niazadeh (Chicago Booth)
   * Third Place, IBM Service Science Best Student Paper Award, INFORMS Annual Meeting 2023
 
 <!-- * Fair Markovian Search:   -->
@@ -45,7 +45,11 @@ Working Papers:
 Ongoing Projects:
 -----------------
 
-* Assortment Optimization of Reusable Resources
+* Optimizing Crowdfunding Platforms: Fundraising for Education:\
+  with Rad Niazadeh (Chicago Booth)
+
+* Optimal Assortment Optimization of Reusable Resources:\
+  with Rad Niazadeh (Chicago Booth)
 
 
 <!-- * Order Consolidation:   -->
