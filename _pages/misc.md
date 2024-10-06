@@ -22,7 +22,7 @@ Some of my hobbies are:
 * hiking, 
 * cycling,
 * table tennis,
-* archery
+* archery,
 * ecotourism,
 * watching movie and anime,
 * and last but definitely not least, traveling! 
