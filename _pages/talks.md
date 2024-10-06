@@ -19,6 +19,9 @@ author_profile: true
 
 <!-- * Fair Markovian Search, Informs 22, Indianapolis, IN, USA -->
 
+* Optimal Assortment Optimization of Reusable Resources:\
+  * INFORMS 2024, Seattle, WA, USA
+
 * Real-Time Personalized Order Holding:\
   * RMP 2024, Los Angeles, CA, USA
   * Chicago OPS Day 2024, Poster, Chicago, IL, USA
