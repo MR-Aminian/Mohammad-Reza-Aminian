@@ -45,10 +45,10 @@ Working Papers:
 Ongoing Projects:
 -----------------
 
-* Optimizing Crowdfunding Platforms: Fundraising for Education:\
+* Fundraising for Education: Optimizing Crowdfunding Platforms\
   with Rad Niazadeh (Chicago Booth)
 
-* Optimal Assortment Optimization of Reusable Resources:\
+* Optimal Assortment Optimization of Reusable Resources\
   with Rad Niazadeh (Chicago Booth)
 
 
