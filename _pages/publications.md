@@ -18,11 +18,20 @@ author_profile: true
 
 
 
-<!-- Publications:
--------------
 
-TBD -->
+Ongoing Projects:
+-----------------
 
+* Fundraising for Education: Optimizing Crowdfunding Platforms\
+  with Rad Niazadeh (Chicago Booth)
+
+* Optimal Assortment Optimization of Reusable Resources\
+  with Rad Niazadeh (Chicago Booth)
+
+
+<!-- * Order Consolidation:   -->
+<!-- Finding an approximation algorithm for order consolidation with a tight competitive ratio.   -->
+<!-- Co-authors: Will Ma (Columbia GSB), Linwei Xin (Chicago Booth) -->
 
 
 Working Papers:
@@ -42,19 +51,12 @@ Working Papers:
 <!-- Co-authors: Vahideh Manshadi (Yale SOM), Rad Niazadeh (Chicago Booth) -->
 
 
-Ongoing Projects:
------------------
 
-* Fundraising for Education: Optimizing Crowdfunding Platforms\
-  with Rad Niazadeh (Chicago Booth)
+<!-- Publications:
+-------------
 
-* Optimal Assortment Optimization of Reusable Resources\
-  with Rad Niazadeh (Chicago Booth)
+TBD -->
 
-
-<!-- * Order Consolidation:   -->
-<!-- Finding an approximation algorithm for order consolidation with a tight competitive ratio.   -->
-<!-- Co-authors: Will Ma (Columbia GSB), Linwei Xin (Chicago Booth) -->
 
 
 Earlier Research:
