@@ -28,11 +28,11 @@ TBD -->
 Working Papers:
 ---------------
 
-* Real-Time Personalized Order Holding:\
+* [Real-Time Personalized Order Holding](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4644495):\
   Designing practical approximation algorithms for the online order holding problem to enjoy the benefits of catching cancellations and multiorder consolidations. SSRN: 4644495\
   Co-authors: Prof. Will Ma (Columbia GSB), Prof. Linwei Xin (Chicago Booth)
 
-* Markovian Search with Socially Aware Constraints:\
+* [Markovian Search with Socially Aware Constraints](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4347447):\
   Incorporating ex-ante constraints in different aspects and variations of the sequential search problem. SSRN: 4347447\
   Co-authors: Prof. Vahideh Manshadi (Yale SOM), Prof. Rad Niazadeh (Chicago Booth)
   * Third Place, IBM Service Science Best Student Paper Award, INFORMS Annual Meeting 2023
