@@ -39,12 +39,12 @@ Working Papers:
 
 * [Real-Time Personalized Order Holding](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4644495):\
   Designing practical approximation algorithms for the online order holding problem to enjoy the benefits of catching cancellations and multiorder consolidations. SSRN: 4644495\
-  R&R at Management Science
+  R&R at Management Science\
   with Will Ma (Columbia GSB) and Linwei Xin (Chicago Booth)
 
 * [Markovian Search with Socially Aware Constraints](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4347447):\
   Incorporating ex-ante constraints in different aspects and variations of the sequential search problem. SSRN: 4347447\
-  Major at Management Science
+  Major at Management Science\
   with Vahideh Manshadi (Yale SOM) and Rad Niazadeh (Chicago Booth)
   * Third Place, IBM Service Science Best Student Paper Award, INFORMS Annual Meeting 2023
 
