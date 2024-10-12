@@ -41,13 +41,15 @@ Working Papers:
   Designing practical approximation algorithms for the online order holding problem to enjoy the benefits of catching cancellations and multiorder consolidations. SSRN: 4644495\
   with Will Ma (Columbia GSB) and Linwei Xin (Chicago Booth)\
   R&R at Management Science
-  * Featured in Chicago Booth Review [At the E-Commerce Warehouse, a Distribution Dilemma](https://www.chicagobooth.edu/review/at-e-commerce-warehouse-distribution-dilemma)[How E-commerce Platforms Should Deal with Your Multiple Orders](https://www.chicagobooth.edu/review/how-e-commerce-platforms-should-deal-your-multiple-orders)
+  * Featured in Chicago Booth Review:\
+   ([At the E-Commerce Warehouse, a Distribution Dilemma](https://www.chicagobooth.edu/review/at-e-commerce-warehouse-distribution-dilemma))\([How E-commerce Platforms Should Deal with Your Multiple Orders](https://www.chicagobooth.edu/review/how-e-commerce-platforms-should-deal-your-multiple-orders))
 
 * [Markovian Search with Socially Aware Constraints](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4347447):\
   Incorporating ex-ante constraints in different aspects and variations of the sequential search problem. SSRN: 4347447\
   with Vahideh Manshadi (Yale SOM) and Rad Niazadeh (Chicago Booth)\
   Major at Management Science
-  * Featured in Chicago Booth Review [Algorithms and AI Can Make Hiring More Diverse](https://www.chicagobooth.edu/review/algorithms-ai-can-make-hiring-more-diverse)
+  * Featured in Chicago Booth Review:\
+   ([Algorithms and AI Can Make Hiring More Diverse](https://www.chicagobooth.edu/review/algorithms-ai-can-make-hiring-more-diverse))
   * Third Place, IBM Service Science Best Student Paper Award, INFORMS Annual Meeting 2023
 
 <!-- * Fair Markovian Search:   -->
