@@ -23,7 +23,8 @@ Selected Honors and Awards (since 2012)
 * Honorary admission for Master of Business Administration, Sharif University of Technology, Tehran, Iran, 2021
 * Top Second Prize Winner at International Mathematics Competition for university students, Bulgaria, 2019
 * Honorary admission for Bachelor of Electrical Engineering, Sharif University of Technology, Tehran, Iran, 2016
-* Silver medalist at 57th International Mathematical Olympiad (IMO), and top mark of the Iranian team, Hong Kong, 2016
+* Silver medalist at 57th International Mathematical Olympiad (IMO), Hong Kong, 2016
+<!-- , and top mark of the Iranian team -->
 * Gold medalist at 33rd National Mathematical Olympiad, Iran, 2015
 * Silver medalist at International Mathematics Competition (KIMC), South Korea, 2014
 * Second Runner up on both Team Prize and Group Prize at International Mathematics Competition (KIMC), South Korea, 2014
