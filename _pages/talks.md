@@ -19,7 +19,7 @@ author_profile: true
 
 <!-- * Fair Markovian Search, Informs 22, Indianapolis, IN, USA -->
 
-* Optimal Assortment Optimization of Reusable Resources:\
+* Stationary Online Contention Resolution Schemes:\
   * INFORMS 2024, Seattle, WA, USA
 
 * Real-Time Personalized Order Holding:\
