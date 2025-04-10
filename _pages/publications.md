@@ -25,6 +25,9 @@ Ongoing Projects:
 * Fundraising for Education: Optimizing Crowdfunding Platforms\
   with Rad Niazadeh (Chicago Booth)
 
+* Optimal Contention Resolution Schemes with Reusable Resources\
+  with Pranav Nuti (Chicago Booth) Rad Niazadeh (Chicago Booth)
+
 * Stationary Online Contention Resolution Schemes\
   with Pranav Nuti (Chicago Booth) Rad Niazadeh (Chicago Booth)
 

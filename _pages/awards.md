@@ -20,6 +20,7 @@ Selected Honors and Awards (since 2012)
 * Third Place, IBM Service Science Best Student Paper Award, INFORMS Annual Meeting, 2023
 * K.D.M. Fellowship Award,The University of Chicago, Booth School of Business, 2021 - 2023
 * Booth Doctoral Fellowship Award,The University of Chicago, Booth School of Business, 2021 - 2027
+* Honorary admission for Master of Business Administration, Sharif University of Technology, Tehran, Iran, 2021
 * Top Second Prize Winner at International Mathematics Competition for university students, Bulgaria, 2019
 * Honorary admission for Bachelor of Electrical Engineering, Sharif University of Technology, Tehran, Iran, 2016
 * Silver medalist at 57th International Mathematical Olympiad (IMO), and top mark of the Iranian team, Hong Kong, 2016
