@@ -25,8 +25,8 @@ Ongoing Projects:
 * Fundraising for Education: Optimizing Crowdfunding Platforms\
   with Rad Niazadeh (Chicago Booth)
 
-* Optimal Assortment Optimization of Reusable Resources\
-  with Rad Niazadeh (Chicago Booth)
+* Stationary Online Contention Resolution Schemes\
+  with Pranav Nuti (Chicago Booth) Rad Niazadeh (Chicago Booth)
 
 
 <!-- * Order Consolidation:   -->
