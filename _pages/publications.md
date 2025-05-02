@@ -43,7 +43,7 @@ Working Papers:
 * [Real-Time Personalized Order Holding](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4644495):\
   Designing practical approximation algorithms for the online order holding problem to enjoy the benefits of catching cancellations and multiorder consolidations. SSRN: 4644495\
   with Will Ma (Columbia GSB) and Linwei Xin (Chicago Booth)\
-  R&R at Management Science
+  Major at Management Science
   * Featured in Chicago Booth Review:\
    [At the E-Commerce Warehouse, a Distribution Dilemma](https://www.chicagobooth.edu/review/at-e-commerce-warehouse-distribution-dilemma)\
    [How E-commerce Platforms Should Deal with Your Multiple Orders](https://www.chicagobooth.edu/review/how-e-commerce-platforms-should-deal-your-multiple-orders)
