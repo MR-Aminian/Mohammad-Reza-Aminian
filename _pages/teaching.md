@@ -34,7 +34,7 @@ I’ve had the privilege of serving as a teaching assistant across multiple prog
 - **Managerial Decision Modelling** (Undergrad, MiM, MBA), T.A., Chicago Booth  
   - Spring: 2023, 2024  
   - Fall: 2024, 2025  
-- **Linear Programming** (Ph.D.), T.A., Chicago Booth  
+- **Linear Programming** (PhD), T.A., Chicago Booth  
   - Fall: 2022, 2023  
 - **Math Olympiad Teacher and Tutor** 
 
