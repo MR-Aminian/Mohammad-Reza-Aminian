@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Miscellaneous"
+title: "🌟 Miscellaneous"
 permalink: /misc/
 author_profile: true
 ---
@@ -11,9 +11,7 @@ author_profile: true
 {% for post in site.misc %}
   {% include archive-single.html %}
 {% endfor %}
-
-
-# 🌟 Miscellaneous  
+  
 
 ## Extracurricular Activities
 
