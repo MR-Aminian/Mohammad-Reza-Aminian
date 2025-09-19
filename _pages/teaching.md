@@ -14,6 +14,7 @@ author_profile: true
 
 Teaching Experience:
 --------------------
+
 <!-- * T.A. for the Managerial Decision Modeling undergraduate course at Chicago Booth (2 sections) -->
 <!-- * T.A. for the Linear Programmig Ph.D. course at Chicago Booth -->
 
@@ -28,6 +29,7 @@ Teaching Experience:
 
 Work Experience:
 ----------------
+
 <!-- * Management of Electrical Power Distribution Networks, Internship -->
 <!-- * Math Olympiad Teacher and Tutor -->
 
