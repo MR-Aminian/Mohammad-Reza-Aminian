@@ -20,6 +20,10 @@ author_profile: true
 <!-- * Fair Markovian Search, Informs 22, Indianapolis, IN, USA -->
 
 * Stationary Online Contention Resolution Schemes:\
+  * INFORMS 2025, Atlanta, GA, USA
+  * Purdue Operations Conference 2025, West Lafayette, IN, USA
+  * RMP 2025, New York, NY, USA
+  * EC 2025, Poster, Stanford, CA, USA
   * INFORMS 2024, Seattle, WA, USA
 
 * Real-Time Personalized Order Holding:\
@@ -32,7 +36,8 @@ author_profile: true
 
 
 * Markovian Search with Socially Aware Constraints:\
-  * EAAMO 2024, San Luis Potosí, Mexico
+  * APS 2025, Atlanta, GA, USA
+  <!-- * EAAMO 2024, San Luis Potosí, Mexico -->
   * Purdue Operations Conference 2024, West Lafayette, IN, USA
   * EC 2024, Poster, New Haven, CT, USA
   * MSOM 2024, Minneapolis, MN, USA
@@ -41,7 +46,7 @@ author_profile: true
   * Midwest Workshop on Game Theory 2024, Poster, Chicago, IL, USA
   * Columbia Workshop on Fairness 2023, Poster, NYC, NY, USA
   * INFORMS 2023, Phoenix, AZ, USA
-  * RMP 2023, Presented by Rad Niazadeh, London, UK
+  <!-- * RMP 2023, Presented by Rad Niazadeh, London, UK -->
   * EC 2023, Poster, Virtual
   * MIW 2023, Virtual
   * NYC OPS Day 2023, Poster, NYC, NY, USA
