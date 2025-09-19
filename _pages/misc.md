@@ -27,6 +27,20 @@ Beyond my academic pursuits, I enjoy staying active and exploring diverse intere
 
 I've also been a lifelong enthusiast of mathematics. This passion led me to participate in several math competitions at both national and international levels. These experiences not only deepened my appreciation for problem-solving but also gave me the opportunity to visit and learn from different cultures around the world.
 
+---
+
+## 🗣️ Languages
+
+### Human Languages
+- **Persian**: Native  
+- **English**: Advanced  
+- **Arabic**: Intermediate  
+- **Turkish**: Intermediate  
+- **Japanese**: Elementary  
+
+### Programming Languages
+- **Python**, **Matlab**, **R**, **Java**, **C++**, **C**, **LaTeX**
+
 
 <!-- Extracurricular Activities
 --------------------------
