@@ -9,23 +9,54 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal academic website. I'm Mohammad Reza, a 4th year Ph.D. student in the Management Sciences / Operations Management area at the University of Chicago, Booth School of Business, where I am very glad to have Prof. Rad Niazadeh as my advisor. Prior to that, I received my B.Sc. degrees in both Electrical Engineering and Computer Science from Sharif University of Technology. 
+I'm **Mohammad Reza**—a fifth-year Ph.D. candidate in *Management Sciences / Operations Management* at the **University of Chicago Booth School of Business**, where I am very glad to have Prof. Rad Niazadeh as my advisor. I also hold an **M.B.A.** from Booth and dual **B.Sc. degrees** in Electrical Engineering and Computer Science from **Sharif University of Technology**.
+
+<!-- I'm Mohammad Reza, a 5th year Ph.D. student in the Management Sciences / Operations Management area at the University of Chicago, Booth School of Business, where I am very glad to have Prof. Rad Niazadeh as my advisor. I recently earned my M.B.A. degree from Booth. Prior to that, I received my B.Sc. degrees in both Electrical Engineering and Computer Science from Sharif University of Technology.  -->
+
+This site offers a concise overview of my academic work, teaching experience, presentations, recognitions, and personal interests. Thanks for stopping by!
+
+<!-- This site is a window into my research, interests, and academic path. Thanks for stopping by! -->
 
 
 
-Research Interests
-------------------
 
-Broadly speaking, my research interests are in Operations, CS (TCS & Learning), and Economics (Micro). In particular, I am passionate about such areas as Social/Ethical Operations, Education Operations, EdTech, Algorithms, (Online) Learning, ML & RL in Operations, Optimization, Mechanism/Information Design, and Game Theory!
+# 🔬 Research Interests
+
+My work sits at the intersection of **Operations**, **Computer Science** (especially *Theoretical CS* and *Learning*), and **Microeconomics**. I'm particularly drawn to topics such as:
+
+- Socially-Responsible & Behaviorally-Aware Operations  
+- Educational Technology (EdTech)  
+- Algorithms & Online Learning  
+- Machine Learning & Reinforcement Learning in Operations  
+- Optimization  
+- Mechanism & Information Design  
+- Game Theory  
 
 
+<!-- Research Interests -->
+<!-- ------------------ -->
 
-Contact
+<!-- Broadly speaking, my research interests are in Operations, CS (TCS & Learning), and Economics (Micro). In particular, I am passionate about such areas as Socially-Responsible & Behaviorally-Aware Operation, EdTech, Algorithms, (Online) Learning, ML & RL in Operations, Optimization, Mechanism/Information Design, and Game Theory! -->
+
+
+# 📬 Contact
+
+Feel free to reach out—email is usually the fastest way:
+
+**Email:** Mr [dot] Aminian1999 [at] gmail [dot] com
+
+You can also connect with me via the sidebar links to my social media profiles.
+
+
+<!-- Contact
 ------------------
 
 Email: Mr [dot] Aminian 1999 [at] gmail [dot] com
 
-You can also use the side bar options to connect to me via social media. (Note: the quickest way would still be the email, almost surely!)
+You can also use the side bar options to connect to me via social media. (Note: the quickest way would still be the email, almost surely!) -->
+
+
+
 
 <!-- 
 Create content & metadata
