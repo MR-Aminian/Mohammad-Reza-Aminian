@@ -13,12 +13,12 @@ author_profile: true
 {% endfor %}
   
 
-## Extracurricular Activities
+## 🏞️ Extracurricular Activities
 
 Beyond my academic pursuits, I enjoy staying active and exploring diverse interests. Some of my favorite hobbies include:
 
 - Swimming, cycling, archery  
-- Table tennis, tennis, badminton  
+- Tennis, table tennis, badminton  
 - Hiking and nature tourism  
 - Watching movies and anime  
 - Traveling—always a highlight  
@@ -27,29 +27,29 @@ I've also been a lifelong enthusiast of mathematics. This passion led me to part
 
 ---
 
-## 🗣️ Languages
+## 🌐 Languages
 
-### Human Languages
+### 🗣️ Human Languages
 - **Persian**: Native  
 - **English**: Advanced  
 - **Arabic**: Intermediate  
 - **Turkish**: Intermediate  
 - **Japanese**: Elementary  
 
-### Programming Languages
+### 💻 Programming Languages
 - **Python**, **Matlab**, **R**, **Java**, **C++**, **C**, **LaTeX**
 
+---
 
-
-## 🤝 Academic Service
+## 🧑‍🔬 Academic Service
 
 I am committed to supporting the scholarly community through peer review and conference involvement. My service contributions include:
 
-### Journal Reviewing
+### 📖 Journal Reviewing
 - *Management Science*  
 - *Manufacturing & Service Operations Management (MSOM)*
 
-### Conference Reviewing
+### 🧮 Conference Reviewing
 - *International Symposium on Algorithms and Computation (ISAAC)*
 
 
