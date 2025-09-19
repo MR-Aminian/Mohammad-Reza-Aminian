@@ -90,7 +90,7 @@ Earlier Research:
 -----------------
 
 - **Graph Auto-Encoder for Weighted Adjacency Reconstruction**  
-  Research Assistant, Sharif University of Technology, Tehran, Iran (2019–2021)  
+  Research Assistant, Sharif University of Technology, Tehran, Iran  
   *Supervisor: Saber Saleh Kaleybar*
 
 - **Maximum Flow Spanning Tree with Power Constraints**  
