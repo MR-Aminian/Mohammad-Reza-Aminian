@@ -9,7 +9,8 @@ redirect_from:
   - /about.html
 ---
 
-# 👋 Greetings!
+👋 Greetings!
+------------
 
 I'm **Mohammad Reza**—a fifth-year Ph.D. candidate in *Management Sciences / Operations Management* at the **University of Chicago Booth School of Business**, where I am very glad to have Prof. Rad Niazadeh as my advisor. I also hold an **M.B.A.** from **Chicago Booth** and dual **B.Sc. degrees** in Electrical Engineering and Computer Science from **Sharif University of Technology**.
 
@@ -22,7 +23,8 @@ This site offers a concise overview of my academic work, teaching experience, pr
 
 
 
-# 🔬 Research Interests
+🔬 Research Interests
+---------------------
 
 My work sits at the intersection of **Operations**, **Computer Science** (especially *Theoretical CS* and *Learning*), and **Microeconomics**. I'm particularly drawn to topics such as:
 
@@ -41,7 +43,8 @@ My work sits at the intersection of **Operations**, **Computer Science** (especi
 <!-- Broadly speaking, my research interests are in Operations, CS (TCS & Learning), and Economics (Micro). In particular, I am passionate about such areas as Socially-Responsible & Behaviorally-Aware Operation, EdTech, Algorithms, (Online) Learning, ML & RL in Operations, Optimization, Mechanism/Information Design, and Game Theory! -->
 
 
-# 📬 Contact
+📬 Contact
+----------
 
 Feel free to reach out—email is usually the fastest way:
 

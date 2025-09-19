@@ -51,7 +51,7 @@ Working Papers:
 * [Markovian Search with Socially Aware Constraints](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4347447):\
   Incorporating ex-ante constraints in different aspects and variations of the sequential search problem. SSRN: 4347447\
   with Vahideh Manshadi (Yale SOM) and Rad Niazadeh (Chicago Booth)\
-  Major at Management Science
+  Minor at Management Science, Accepted in EAAMO 2024
   * Featured in Chicago Booth Review:\
    [Algorithms and AI Can Make Hiring More Diverse](https://www.chicagobooth.edu/review/algorithms-ai-can-make-hiring-more-diverse)
   * Third Place, IBM Service Science Best Student Paper Award, INFORMS Annual Meeting 2023
