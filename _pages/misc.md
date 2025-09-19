@@ -41,7 +41,7 @@ I've also been a lifelong enthusiast of mathematics. This passion led me to part
 
 ---
 
-## 🧑‍🔬 Academic Service
+## 🤝 Academic Service
 
 I am committed to supporting the scholarly community through peer review and conference involvement. My service contributions include:
 
@@ -49,7 +49,7 @@ I am committed to supporting the scholarly community through peer review and con
 - *Management Science*  
 - *Manufacturing & Service Operations Management (MSOM)*
 
-### 🧮 Conference Reviewing
+### 🧑‍🏫 Conference Reviewing
 - *International Symposium on Algorithms and Computation (ISAAC)*
 
 
