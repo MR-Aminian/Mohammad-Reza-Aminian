@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Greetings!"
+title: "A Brief Introduction"
 google-site-verification: "7llBgV3dOtYJqPFk190VXTfRs4Ga_FJ6ex2t2MqTtCw"
 excerpt: "About me"
 author_profile: true
@@ -9,7 +9,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm **Mohammad Reza**—a fifth-year Ph.D. candidate in *Management Sciences / Operations Management* at the **University of Chicago Booth School of Business**, where I am very glad to have Prof. Rad Niazadeh as my advisor. I also hold an **M.B.A.** from Booth and dual **B.Sc. degrees** in Electrical Engineering and Computer Science from **Sharif University of Technology**.
+# 👋 Greetings!
+
+I'm **Mohammad Reza**—a fifth-year Ph.D. candidate in *Management Sciences / Operations Management* at the **University of Chicago Booth School of Business**, where I am very glad to have Prof. Rad Niazadeh as my advisor. I also hold an **M.B.A.** from **Chicago Booth** and dual **B.Sc. degrees** in Electrical Engineering and Computer Science from **Sharif University of Technology**.
 
 <!-- I'm Mohammad Reza, a 5th year Ph.D. student in the Management Sciences / Operations Management area at the University of Chicago, Booth School of Business, where I am very glad to have Prof. Rad Niazadeh as my advisor. I recently earned my M.B.A. degree from Booth. Prior to that, I received my B.Sc. degrees in both Electrical Engineering and Computer Science from Sharif University of Technology.  -->
 
