@@ -29,12 +29,12 @@ Teaching Experience:
 
 I’ve had the privilege of serving as a teaching assistant across multiple programs and levels at Chicago Booth, as well as mentoring students in mathematics.
 
-- **Operations Management** (Executive MBA) — T.A., Chicago Booth
+- **Operations Management** (Executive MBA), T.A., Chicago Booth
   - Winter 2024  
-- **Managerial Decision Modelling** (Undergrad, MiM, MBA) — T.A., Chicago Booth  
+- **Managerial Decision Modelling** (Undergrad, MiM, MBA), T.A., Chicago Booth  
   - Spring: 2023, 2024  
   - Fall: 2024, 2025  
-- **Linear Programming** (Ph.D.) — T.A., Chicago Booth  
+- **Linear Programming** (Ph.D.), T.A., Chicago Booth  
   - Fall: 2022, 2023  
 - **Math Olympiad Teacher and Tutor** 
 
@@ -55,10 +55,10 @@ Supervisor: Prof. Saber Saleh Kaleybar
 Signal Processing on the EEG data\
 Supervisor: Prof. Hamid K. Aghajan -->
 
-- **Research Assistant**, Sharif University of Technology — Tehran, Iran (2019–2021)  
+- **Research Assistant**, Sharif University of Technology, Tehran, Iran (2019–2021)  
   Designed a graph auto-encoder capable of reconstructing weighted adjacency matrices  
   *Supervisor: Prof. Saber Saleh Kaleybar*
 
-- **Research Assistant**, Sharif University of Technology — Tehran, Iran (2017)  
+- **Research Assistant**, Sharif University of Technology, Tehran, Iran (2017)  
   Conducted signal processing on EEG data  
   *Supervisor: Prof. Hamid K. Aghajan*
