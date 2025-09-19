@@ -16,9 +16,14 @@ Teaching Experience:
 --------------------
 <!-- * T.A. for the Managerial Decision Modeling undergraduate course at Chicago Booth (2 sections) -->
 <!-- * T.A. for the Linear Programmig Ph.D. course at Chicago Booth -->
-* T.A. Operations Management, Executive MBA, Chicago Booth: 2024 
+
+<!-- * T.A. Operations Management, Executive MBA, Chicago Booth: 2024 
 * T.A. Managerial Decision Modelling, MBA, Chicago Booth: 2023, 2024, 2025 
-* T.A. Linear Programmig, Ph.D., Chicago Booth: 2022, 2023 
+* T.A. Linear Programmig, Ph.D., Chicago Booth: 2022, 2023  -->
+
+* Operations Management (Executive MBA), T.A., Chicago Booth, Winter 2024
+* Managerial Decision Modelling (Undergrad, MiM, MBA), T.A., Chicago Booth,Spring: 2023, 2024, Fall: 2024, 2025
+* Linear Programmig (Ph.D.), T.A., Chicago Booth, Fall: 2022, 2023
 * Math Olympiad Teacher and Tutor 
 
 Work Experience:
