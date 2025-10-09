@@ -41,7 +41,7 @@ I’ve had the privilege of serving as a teaching assistant across multiple prog
 ---
 
 
-Work Experience:
+Earlier Research Experience:
 ----------------
 
 <!-- * Management of Electrical Power Distribution Networks, Internship -->

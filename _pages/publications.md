@@ -86,7 +86,8 @@ TBD -->
 
 
 
-Earlier Research:
+
+<!-- Earlier Research:
 -----------------
 
 - **Graph Auto-Encoder for Weighted Adjacency Reconstruction**  
@@ -99,7 +100,9 @@ Earlier Research:
 
 - **Signal Processing on EEG Data**  
   Research Assistant, Sharif University of Technology, Tehran, Iran  
-  *Supervisor: Hamid K. Aghajan*
+  *Supervisor: Hamid K. Aghajan* -->
+
+
 
 
 <!-- * Research Assistant at the Sharif University of Technology, Tehran, Iran.\
