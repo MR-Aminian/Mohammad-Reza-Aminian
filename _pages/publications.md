@@ -25,7 +25,7 @@ Ongoing Projects:
 - **Fundraising for Education: Optimizing Crowdfunding Platforms**  
   with Rad Niazadeh (Chicago Booth)
 
-- **Optimal Contention Resolution Schemes with Reusable Resources**  
+- **Near-optimal Bayesian Online Allocation of Reusable Resources**  
   with Pranav Nuti (Chicago Booth), Rad Niazadeh (Chicago Booth)
 
 - **Stationary Online Contention Resolution Schemes**  
@@ -51,7 +51,7 @@ Working Papers:
 - **[Markovian Search with Socially Aware Constraints](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4347447)**  
   Incorporating ex-ante constraints in different aspects and variations of the sequential search problem  
   *with Vahideh Manshadi (Yale SOM) and Rad Niazadeh (Chicago Booth)*  
-  Minor at *Management Science*, Accepted at *EAAMO 2024*  
+  Accepted at *Management Science*, *EAAMO 2024*  
   - Featured in *Chicago Booth Review*:  
     [Algorithms and AI Can Make Hiring More Diverse](https://www.chicagobooth.edu/review/algorithms-ai-can-make-hiring-more-diverse)  
   - Third Place, IBM Service Science Best Student Paper Award — INFORMS Annual Meeting 2023
