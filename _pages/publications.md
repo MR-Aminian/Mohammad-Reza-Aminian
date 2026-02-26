@@ -26,10 +26,10 @@ Ongoing Projects:
   with Rad Niazadeh (Chicago Booth)
 
 - **Near-optimal Bayesian Online Allocation of Reusable Resources**  
-  with Pranav Nuti (Chicago Booth), Rad Niazadeh (Chicago Booth)
+  with Rad Niazadeh (Chicago Booth), Pranav Nuti (Chicago Booth)
 
 - **Stationary Online Contention Resolution Schemes**  
-  with Pranav Nuti (Chicago Booth), Rad Niazadeh (Chicago Booth)
+  with Rad Niazadeh (Chicago Booth), Pranav Nuti (Chicago Booth)
 
 
 <!-- * Order Consolidation:   -->
