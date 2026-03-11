@@ -25,11 +25,6 @@ Ongoing Projects:
 - **Fundraising for Education: Optimizing Crowdfunding Platforms**  
   with Rad Niazadeh (Chicago Booth)
 
-- **Near-optimal Bayesian Online Allocation of Reusable Resources**  
-  with Rad Niazadeh (Chicago Booth), Pranav Nuti (Chicago Booth)
-
-- **Stationary Online Contention Resolution Schemes**  
-  with Rad Niazadeh (Chicago Booth), Pranav Nuti (Chicago Booth)
 
 
 <!-- * Order Consolidation:   -->
@@ -40,6 +35,12 @@ Ongoing Projects:
 Working Papers:
 ---------------
 
+- **[Optimal Bayesian Online Allocation of Reusable Resources](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6384158)**  
+  with Rad Niazadeh (Chicago Booth), Pranav Nuti (Chicago Booth)
+
+- **[Stationary Online Contention Resolution Schemes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6384199)**  
+  with Rad Niazadeh (Chicago Booth), Pranav Nuti (Chicago Booth)
+
 - **[Real-Time Personalized Order Holding](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4644495)**  
   Designing practical approximation algorithms for the online order holding problem to enjoy the benefits of catching cancellations and multiorder consolidations  
   *with Will Ma (Columbia GSB) and Linwei Xin (Chicago Booth)*  
@@ -48,13 +49,7 @@ Working Papers:
     [At the E-Commerce Warehouse, a Distribution Dilemma](https://www.chicagobooth.edu/review/at-e-commerce-warehouse-distribution-dilemma)  
     [How E-commerce Platforms Should Deal with Your Multiple Orders](https://www.chicagobooth.edu/review/how-e-commerce-platforms-should-deal-your-multiple-orders)
 
-- **[Markovian Search with Socially Aware Constraints](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4347447)**  
-  Incorporating ex-ante constraints in different aspects and variations of the sequential search problem  
-  *with Vahideh Manshadi (Yale SOM) and Rad Niazadeh (Chicago Booth)*  
-  Accepted at *Management Science*, *EAAMO 2024*  
-  - Featured in *Chicago Booth Review*:  
-    [Algorithms and AI Can Make Hiring More Diverse](https://www.chicagobooth.edu/review/algorithms-ai-can-make-hiring-more-diverse)  
-  - Third Place, IBM Service Science Best Student Paper Award — INFORMS Annual Meeting 2023
+
 
 
 <!-- * [Real-Time Personalized Order Holding](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4644495):\
@@ -79,10 +74,17 @@ Working Papers:
 
 
 
-<!-- Publications:
+
+Publications:
 -------------
 
-TBD -->
+- **[Markovian Search with Ex-Ante Constraints: Theory and Applications to Socially Aware Algorithmic Hiring](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4347447)**  
+  Incorporating ex-ante constraints in different aspects and variations of the sequential search problem  
+  *with Vahideh Manshadi (Yale SOM) and Rad Niazadeh (Chicago Booth)*  
+  Accepted at *Management Science*, *EAAMO 2024*  
+  - Featured in *Chicago Booth Review*:  
+    [Algorithms and AI Can Make Hiring More Diverse](https://www.chicagobooth.edu/review/algorithms-ai-can-make-hiring-more-diverse)  
+  - Third Place, IBM Service Science Best Student Paper Award — INFORMS Annual Meeting 2023
 
 
 
