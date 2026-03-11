@@ -47,9 +47,10 @@ I am committed to supporting the scholarly community through peer review and con
 
 ### 📖 Journal Reviewing
 - *Management Science*  
-- *Manufacturing & Service Operations Management (MSOM)*
+- *Manufacturing & Service Operations Management (M&SOM)*
 
 ### 🧑‍🏫 Conference Reviewing
+- *Manufacturing & Service Operations Management (MSOM)*
 - *International Symposium on Algorithms and Computation (ISAAC)*
 
 
