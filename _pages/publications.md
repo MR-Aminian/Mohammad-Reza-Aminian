@@ -36,10 +36,12 @@ Working Papers:
 ---------------
 
 - **[Optimal Bayesian Online Allocation of Reusable Resources](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6384158)**  
-  with Rad Niazadeh (Chicago Booth), Pranav Nuti (Chicago Booth)
+  Generalized classical online resource allocation theory to the reusable setting by developing a time-invariant admission policy that guarantees ex-post feasibility and matches the information-theoretic tight bounds of non-reusable models.
+  *with Rad Niazadeh (Chicago Booth), Pranav Nuti (Chicago Booth)*
 
 - **[Stationary Online Contention Resolution Schemes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6384199)**  
-  with Rad Niazadeh (Chicago Booth), Pranav Nuti (Chicago Booth)
+  Created the S-OCRS framework to unify the design of online selection algorithms, achieving optimal selectability and resolving open problems across various feasibility environments, like matchings and matroids.
+  *with Rad Niazadeh (Chicago Booth), Pranav Nuti (Chicago Booth)*
 
 - **[Real-Time Personalized Order Holding](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4644495)**  
   Designing practical approximation algorithms for the online order holding problem to enjoy the benefits of catching cancellations and multiorder consolidations  
