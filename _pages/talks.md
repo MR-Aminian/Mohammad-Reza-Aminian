@@ -39,7 +39,7 @@ I’ve had the opportunity to present my research across a range of academic con
 
 ---
 
-## 📌 Real-Time Personalized Order Holding
+## 📌 Online Job Selection: Reward Rate vs. Remaining Value (formerly Real-Time Personalized Order Holding)
 - RMP 2024 — Los Angeles, CA, USA  
 - Chicago OPS Day 2024 (Poster) — Chicago, IL, USA  
 - INFORMS 2023 — Phoenix, AZ, USA  
@@ -72,7 +72,7 @@ I’ve had the opportunity to present my research across a range of academic con
   * EC 2025, Poster, Stanford, CA, USA
   * INFORMS 2024, Seattle, WA, USA
 
-* Real-Time Personalized Order Holding:\
+* Online Job Selection: Reward Rate vs. Remaining Value (formerly Real-Time Personalized Order Holding):\
   * RMP 2024, Los Angeles, CA, USA
   * Chicago OPS Day 2024, Poster, Chicago, IL, USA
   * INFORMS 2023, Phoenix, AZ, USA

@@ -43,7 +43,7 @@ Working Papers:
   Created the S-OCRS framework to unify the design of online selection algorithms, achieving optimal selectability and resolving open problems across various feasibility environments, like matchings and matroids  
   *with Rad Niazadeh (Chicago Booth), Pranav Nuti (Chicago Booth)*
 
-- **[Real-Time Personalized Order Holding](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4644495)**  
+- **[Online Job Selection: Reward Rate vs. Remaining Value (formerly Real-Time Personalized Order Holding)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4644495)**  
   Designing practical approximation algorithms for the online order holding problem to enjoy the benefits of catching cancellations and multiorder consolidations  
   *with Will Ma (Columbia GSB) and Linwei Xin (Chicago Booth)*  
   Major at *Management Science*  
@@ -54,7 +54,7 @@ Working Papers:
 
 
 
-<!-- * [Real-Time Personalized Order Holding](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4644495):\
+<!-- * [Online Job Selection: Reward Rate vs. Remaining Value (formerly Real-Time Personalized Order Holding)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4644495):\
   Designing practical approximation algorithms for the online order holding problem to enjoy the benefits of catching cancellations and multiorder consolidations. SSRN: 4644495\
   with Will Ma (Columbia GSB) and Linwei Xin (Chicago Booth)\
   Major at Management Science
