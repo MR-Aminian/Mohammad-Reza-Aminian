@@ -1,7 +1,7 @@
 ---
 layout: archive
 # title: "Invited Talks"
-title: "Talks"
+title: "Presentations"
 permalink: /talks/
 author_profile: true
 ---
