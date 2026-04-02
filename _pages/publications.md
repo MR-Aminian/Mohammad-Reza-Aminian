@@ -23,7 +23,8 @@ Ongoing Projects:
 -----------------
 
 - **Fundraising for Education: Optimizing Crowdfunding Platforms**  
-  with Rad Niazadeh (Chicago Booth)
+  Design dynamic assortment policies for crowdfunding platforms to prevent “project starvation” and maximize the value of fully funded campaigns.
+  *with Rad Niazadeh (Chicago Booth)*
 
 
 
@@ -36,15 +37,15 @@ Working Papers:
 ---------------
 
 - **[Optimal Bayesian Online Allocation of Reusable Resources](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6384158)**  
-  Generalized classical online resource allocation theory to the reusable setting by developing a time-invariant admission policy that guarantees ex-post feasibility and matches the information-theoretic tight bounds of non-reusable models  
+  Generalize classical online resource allocation theory to the reusable setting by developing a time-invariant admission policy that guarantees ex-post feasibility and matches the information-theoretic tight bounds of non-reusable models  
   *with Rad Niazadeh (Chicago Booth), Pranav Nuti (Chicago Booth)*
 
 - **[Stationary Online Contention Resolution Schemes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6384199)**  
-  Created the S-OCRS framework to unify the design of online selection algorithms, achieving optimal selectability and resolving open problems across various feasibility environments, like matchings and matroids  
+  Create the S-OCRS framework to unify the design of online selection algorithms, achieving optimal selectability and resolving open problems across various feasibility environments, like matchings and matroids  
   *with Rad Niazadeh (Chicago Booth), Pranav Nuti (Chicago Booth)*
 
 - **[Online Job Selection: Reward Rate vs. Remaining Value (formerly Real-Time Personalized Order Holding)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4644495)**  
-  Designing practical approximation algorithms for the online order holding problem to enjoy the benefits of catching cancellations and multiorder consolidations  
+  Introduce an online resource allocation framework and index-based policies with theoretical guarantees to optimize the trade-off between keeping an ongoing job to harvest its remaining value vs. preempting it to serve a new request in limited capacity systems.  
   *with Will Ma (Columbia GSB) and Linwei Xin (Chicago Booth)*  
   Major at *Management Science*  
   - Featured in *Chicago Booth Review*:  
@@ -81,7 +82,8 @@ Publications:
 -------------
 
 - **[Markovian Search with Ex-Ante Constraints: Theory and Applications to Socially Aware Algorithmic Hiring](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4347447)**  
-  Incorporating ex-ante constraints in different aspects and variations of the sequential search problem  
+  Design socially-responsible sequential search framework for algorithmic hiring and resource allocation. Develop dual-adjusted index policies and primal-dual algorithms to satisfy
+ex-ante constraints efficiently.  
   *with Vahideh Manshadi (Yale SOM) and Rad Niazadeh (Chicago Booth)*  
   Accepted at *Management Science*, *EAAMO 2024*  
   - Featured in *Chicago Booth Review*:  
