@@ -25,6 +25,11 @@ I’ve had the opportunity to present my research across a range of academic con
 
 ---
 
+## 📌 Responsible Decision Making in Operations: Algorithms for Social Impact
+- Rising Stars Workshop 2026 (Poster) — Ann Arbor, MI, USA
+
+---
+
 ## 📌 Stationary Online Contention Resolution Schemes
 - INFORMS 2025 — Atlanta, GA, USA  
 - Purdue Operations Conference 2025 — West Lafayette, IN, USA  
