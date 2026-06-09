@@ -46,7 +46,8 @@ I've also been a lifelong enthusiast of mathematics. This passion led me to part
 I am committed to supporting the scholarly community through peer review and conference involvement. My service contributions include:
 
 ### 📖 Journal Reviewing
-- *Management Science*  
+- *Management Science* 
+- *Operations Research* 
 - *Manufacturing & Service Operations Management (M&SOM)*
 
 ### 🧑‍🏫 Conference Reviewing
