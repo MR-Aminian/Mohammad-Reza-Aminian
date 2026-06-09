@@ -43,6 +43,8 @@ Working Papers:
 - **[Stationary Online Contention Resolution Schemes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6384199)**  
   Create the S-OCRS framework to unify the design of online selection algorithms, achieving optimal selectability and resolving open problems across various feasibility environments, like matchings and matroids.  
   *with Rad Niazadeh (Chicago Booth), Pranav Nuti (Chicago Booth)*
+  Accepted at *EC 2026*
+
 
 - **[Online Job Selection: Reward Rate vs. Remaining Value (formerly Real-Time Personalized Order Holding)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4644495)**  
   Introduce an online resource allocation framework and index-based policies with theoretical guarantees to optimize the trade-off between keeping an ongoing job to harvest its remaining value vs. preempting it to serve a new request in limited capacity systems.  
