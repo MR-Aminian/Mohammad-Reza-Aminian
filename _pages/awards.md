@@ -32,7 +32,7 @@ Selected Honors and Awards (since 2012)
 <!-- * Second Runner up Team prize at International Mathematics Competition (KIMC), South Korea, 2014 -->
 * Silver medalist at 32nd National Mathematical Olympiad, Iran, 2014
 * Gold medalist at 15th National Mathematics Competition (KIMC), Iran, 2014
-* Membership of National Elite Foundation, Iran, 2014
+<!-- * Membership of National Elite Foundation, Iran, 2014 -->
 <!-- * Selected as a member of the Iranian Team at International Zhautykov Olympiad (IZHO), Iran, 2013 -->
 * Gold medalist at 14th National Mathematics Competition (BIMC), Iran, 2013
 * Gold medalist at 3rd Mathematical Olympiad of Iranian Teenagers, Iran, 2013
