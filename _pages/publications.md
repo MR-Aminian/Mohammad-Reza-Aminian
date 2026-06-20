@@ -49,7 +49,7 @@ Working Papers:
 - **[Online Job Selection: Reward Rate vs. Remaining Value (formerly Real-Time Personalized Order Holding)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4644495)**  
   Introduce an online resource allocation framework and index-based policies with theoretical guarantees to optimize the trade-off between keeping an ongoing job to harvest its remaining value vs. preempting it to serve a new request in limited capacity systems.  
   *with Will Ma (Columbia GSB) and Linwei Xin (Chicago Booth)*  
-  Major at *Management Science*  
+  Minor at *Management Science*  
   - Featured in *Chicago Booth Review*:  
     [At the E-Commerce Warehouse, a Distribution Dilemma](https://www.chicagobooth.edu/review/at-e-commerce-warehouse-distribution-dilemma)  
     [How E-commerce Platforms Should Deal with Your Multiple Orders](https://www.chicagobooth.edu/review/how-e-commerce-platforms-should-deal-your-multiple-orders)
