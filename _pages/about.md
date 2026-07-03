@@ -12,7 +12,7 @@ redirect_from:
 👋 Greetings!
 ------------
 
-I'm **Mohammad Reza**—a fifth-year Ph.D. candidate in *Management Sciences / Operations Management* at the **University of Chicago Booth School of Business**, where I have the privilege of being advised by Prof. Rad Niazadeh. I also hold an M.B.A. from **Chicago Booth**, along with dual B.Sc. degrees in *Electrical Engineering* and *Computer Science* from **Sharif University of Technology**.
+I'm **Mohammad Reza**—a fifth-year Ph.D. candidate in *Management Sciences / Operations Management* at the University of Chicago Booth School of Business, where I have the privilege of being advised by Prof. Rad Niazadeh. I also hold an M.B.A. from Chicago Booth, along with dual B.Sc. degrees in *Electrical Engineering* and *Computer Science* from Sharif University of Technology.
 
 <!-- I'm Mohammad Reza, a 5th year Ph.D. student in the Management Sciences / Operations Management area at the University of Chicago, Booth School of Business, where I am very glad to have Prof. Rad Niazadeh as my advisor. I recently earned my M.B.A. degree from Booth. Prior to that, I received my B.Sc. degrees in both Electrical Engineering and Computer Science from Sharif University of Technology.  -->
 
@@ -49,11 +49,11 @@ Beyond my current papers, I ask a forward-looking question: as AI absorbs conten
 
 *Curious about my recent work? I'd love for you to join us at any of the upcoming talks below, presented by me and my wonderful coauthors — plus a couple of publication updates I'm delighted to share:*
 
-- **RMP 2026** — *Stationary Online Contention Resolution for Reusable Resource Allocation*, presented by my coauthor **Pranav Nuti** — Day 2, Wednesday, July 22, Block 4, 3:30–5:10 PM, Room R1230.
-- **RMP 2026** — *Fundraising for Education: Mitigating Project Starvation via Dynamic Assortment and OCRS*, presented by **me** — Day 2, Wednesday, July 22, Block 3, 1:50–3:10 PM, Room R1240.
-- **MSOM 2026** (poster) — *Stationary Online Contention Resolution for Reusable Resource Allocation*, presented by my coauthor **Pranav Nuti**.
-- **MSOM 2026** — *Fundraising for Education: Mitigating Project Starvation via Dynamic Assortment and Online Contention Resolution*, presented by **me** — Day 1, Monday, July 13, Session MA3 (Aldrich 208), 8:30–10:00 AM.
-- **EC 2026** — *Stationary Online Contention Resolution Schemes*, presented by my advisor, **Rad Niazadeh** — Wednesday, July 8, Room B, 14:00–15:30.
+- **RMP 2026** — *Stationary Online Contention Resolution for Reusable Resource Allocation*, presented by my coauthor Pranav Nuti — Day 2, Wednesday, July 22, Block 4, 3:30–5:10 PM, Room R1230.
+- **RMP 2026** — *Fundraising for Education: Mitigating Project Starvation via Dynamic Assortment and OCRS*, presented by me — Day 2, Wednesday, July 22, Block 3, 1:50–3:10 PM, Room R1240.
+- **MSOM 2026** (poster) — *Stationary Online Contention Resolution for Reusable Resource Allocation*, presented by my coauthor Pranav Nuti.
+- **MSOM 2026** — *Fundraising for Education: Mitigating Project Starvation via Dynamic Assortment and Online Contention Resolution*, presented by me — Day 1, Monday, July 13, Session MA3 (Aldrich 208), 8:30–10:00 AM.
+- **EC 2026** — *Stationary Online Contention Resolution Schemes*, presented by my advisor, Rad Niazadeh — Wednesday, July 8, Room B, 14:00–15:30.
 - **EC 2026** — *Stationary Online Contention Resolution Schemes*, now officially accepted for publication!
 - **Management Science** — *Markovian Search with Ex-Ante Constraints: Theory and Applications to Socially Aware Algorithmic Hiring*, now officially accepted for publication!
 
