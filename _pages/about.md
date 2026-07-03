@@ -12,11 +12,11 @@ redirect_from:
 👋 Greetings!
 ------------
 
-I'm **Mohammad Reza**—a fifth-year Ph.D. candidate in *Management Sciences / Operations Management* at the **University of Chicago Booth School of Business**, where I am very glad to have Prof. Rad Niazadeh as my advisor. I also hold an M.B.A. from **Chicago Booth**, along with dual B.Sc. degrees in *Electrical Engineering* and *Computer Science* from **Sharif University of Technology**.
+I'm **Mohammad Reza**—a fifth-year Ph.D. candidate in *Management Sciences / Operations Management* at the **University of Chicago Booth School of Business**, where I have the privilege of being advised by Prof. Rad Niazadeh. I also hold an M.B.A. from **Chicago Booth**, along with dual B.Sc. degrees in *Electrical Engineering* and *Computer Science* from **Sharif University of Technology**.
 
 <!-- I'm Mohammad Reza, a 5th year Ph.D. student in the Management Sciences / Operations Management area at the University of Chicago, Booth School of Business, where I am very glad to have Prof. Rad Niazadeh as my advisor. I recently earned my M.B.A. degree from Booth. Prior to that, I received my B.Sc. degrees in both Electrical Engineering and Computer Science from Sharif University of Technology.  -->
 
-This site offers a concise overview of my academic work, teaching experience, presentations, recognitions, and personal interests. Thanks for stopping by!
+This site offers a window into my research, teaching, presentations, and recognitions, along with a few personal interests—thanks for stopping by!
 
 <!-- This site is a window into my research, interests, and academic path. Thanks for stopping by! -->
 
@@ -26,15 +26,16 @@ This site offers a concise overview of my academic work, teaching experience, pr
 🔬 Research Interests
 ---------------------
 
-My work sits at the intersection of **Operations**, **Computer Science** (especially *Theoretical CS* and *Learning*), and **Microeconomics**. I'm particularly drawn to topics such as:
+Algorithms that allocate scarce resources — jobs, funding, opportunities — should serve the people on the other end of the decision, not just optimize a number. I'm also driven by a related mission: making high-quality, impactful education accessible to anyone who seeks knowledge and the power to think critically. My work bridges these missions with my technical toolkit: I care about where algorithms are deployed as much as how well they perform.
 
-- Socially-Responsible & Behaviorally-Aware Operations  
-- Educational Technology (EdTech)  
-- Algorithms & Online Learning  
-- Machine Learning & Reinforcement Learning in Operations  
-- Optimization  
-- Mechanism & Information Design  
-- Game Theory  
+**Applications: Socially-Responsible & Behaviorally-Aware Operations, Education Operations, Non-Profits, and Human-Centric Decision-Making**  
+I design algorithms for organizations and platforms where getting the allocation right matters beyond raw efficiency — spanning hiring, non-profits, educational platforms, and platform operations more broadly. A few examples from my recent work: embedding ex-ante fairness constraints into algorithmic hiring so diversity guarantees don't come at the cost of quality (*Markovian Search with Ex-Ante Constraints*, Management Science); designing index policies that reflect real customer behavior — cancellations, multi-order consolidation — in e-commerce fulfillment (*Online Job Selection*); and building dynamic assortment and contention-resolution policies for crowdfunding platforms that fund classrooms, tackling "project starvation" so funding reaches under-resourced projects rather than only the most visible ones (*Fundraising for Education*, with Rad Niazadeh).
+
+**Technical Foundations: Online Algorithms, Optimization & Mechanism Design**  
+I draw on online algorithms, optimization, mechanism and information design, learning, game theory, and incentive design to build theory that's both provable and deployable. Recent contributions include a unifying Online Contention Resolution Schemes framework spanning feasibility environments like matchings and matroids (*Stationary Online Contention Resolution Schemes*, EC 2026), and new guarantees for allocating *reusable* resources — servers, rentals — where allocated items return to the system over time (*Optimal Bayesian Online Allocation of Reusable Resources*).
+
+**Vision: AI and the Future of Education Operations**  
+Beyond my current papers, I'm building a forward-looking research agenda around one question: as AI absorbs knowledge search, content delivery, and personalized instruction, what should schools shift their focus to? I don't believe any model can replace what students need most — belonging and teamwork, aspiration and motivation, the freedom to discover their own interests and set their own goals, and the cultivation of independent, analytical thinking power. A great teacher challenges and inspires in ways no model can. A great school gives students room to explore under guidance, discover who they truly are, build relationships that outlast their years there, and push past their comfort zones until independence, responsibility, and a critical, scientific eye become second nature. I see the core function of schools shifting accordingly — from delivering content to cultivating judgment, curiosity, aspiration, and character, through mentorship, discussion, and collaborative learning. Getting there is, at its heart, partly an operations problem: let AI absorb the routine work of content delivery and assessment, and free teachers' and mentors' limited time and attention for exactly the students and moments where human judgment and connection matter most.
 
 
 <!-- Research Interests -->
@@ -46,26 +47,25 @@ My work sits at the intersection of **Operations**, **Computer Science** (especi
 📰 News
 -------
 
-*Curious about my recent work? I'd love for you to join us at any of the upcoming talks below, presented by me and my wonderful coauthors:*
+*Curious about my recent work? I'd love for you to join us at any of the upcoming talks below, presented by me and my wonderful coauthors — plus a couple of publication updates I'm delighted to share:*
 
 - **RMP 2026** — *Stationary Online Contention Resolution for Reusable Resource Allocation*, presented by my coauthor **Pranav Nuti** — Day 2, Wednesday, July 22, Block 4, 3:30–5:10 PM, Room R1230.
 - **RMP 2026** — *Fundraising for Education: Mitigating Project Starvation via Dynamic Assortment and OCRS*, presented by **me** — Day 2, Wednesday, July 22, Block 3, 1:50–3:10 PM, Room R1240.
 - **MSOM 2026** (poster) — *Stationary Online Contention Resolution for Reusable Resource Allocation*, presented by my coauthor **Pranav Nuti**.
 - **MSOM 2026** — *Fundraising for Education: Mitigating Project Starvation via Dynamic Assortment and Online Contention Resolution*, presented by **me** — Day 1, Monday, July 13, Session MA3 (Aldrich 208), 8:30–10:00 AM.
 - **EC 2026** — *Stationary Online Contention Resolution Schemes*, presented by my advisor, **Rad Niazadeh** — Wednesday, July 8, Room B, 14:00–15:30.
-- Excited to announce that **Stationary Online Contention Resolution Schemes** has been accepted at **EC 2026**!
-- Thrilled to share that **Markovian Search with Ex-Ante Constraints: Theory and Applications to Socially Aware Algorithmic Hiring** has been accepted at **Management Science**!
+- **EC 2026** — *Stationary Online Contention Resolution Schemes*, now officially accepted for publication!
+- **Management Science** — *Markovian Search with Ex-Ante Constraints: Theory and Applications to Socially Aware Algorithmic Hiring*, now officially accepted for publication!
 
 
 
 📬 Contact
 ----------
 
-Feel free to reach out—email is usually the fastest way:
+Feel free to reach out via email or connect with me on social media. I look forward to hearing from you!
 
 **Email:** Mr [dot] Aminian1999 [at] gmail [dot] com
 
-You can also connect with me via the sidebar links to my social media profiles.
 
 
 <!-- Contact
