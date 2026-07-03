@@ -43,6 +43,21 @@ My work sits at the intersection of **Operations**, **Computer Science** (especi
 <!-- Broadly speaking, my research interests are in Operations, CS (TCS & Learning), and Economics (Micro). In particular, I am passionate about such areas as Socially-Responsible & Behaviorally-Aware Operation, EdTech, Algorithms, (Online) Learning, ML & RL in Operations, Optimization, Mechanism/Information Design, and Game Theory! -->
 
 
+📰 News
+-------
+
+*Curious about my recent work? I'd love for you to join us at any of the upcoming talks below, presented by me and my wonderful coauthors:*
+
+- **RMP 2026** — *Stationary Online Contention Resolution for Reusable Resource Allocation*, presented by my coauthor **Pranav Nuti** — Day 2, Wednesday, July 22, Block 4, 3:30–5:10 PM, Room R1230.
+- **RMP 2026** — *Fundraising for Education: Mitigating Project Starvation via Dynamic Assortment and OCRS*, presented by **me** — Day 2, Wednesday, July 22, Block 3, 1:50–3:10 PM, Room R1240.
+- **MSOM 2026** (poster) — *Stationary Online Contention Resolution for Reusable Resource Allocation*, presented by my coauthor **Pranav Nuti**.
+- **MSOM 2026** — *Fundraising for Education: Mitigating Project Starvation via Dynamic Assortment and Online Contention Resolution*, presented by **me** — Day 1, Monday, July 13, Session MA3 (Aldrich 208), 8:30–10:00 AM.
+- **EC 2026** — *Stationary Online Contention Resolution Schemes*, presented by my advisor, **Rad Niazadeh** — Wednesday, July 8, Room B, 14:00–15:30.
+- Excited to announce that **Stationary Online Contention Resolution Schemes** has been accepted at **EC 2026**!
+- Thrilled to share that **Markovian Search with Ex-Ante Constraints: Theory and Applications to Socially Aware Algorithmic Hiring** has been accepted at **Management Science**!
+
+
+
 📬 Contact
 ----------
 
