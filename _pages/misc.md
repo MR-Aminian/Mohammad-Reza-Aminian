@@ -3,6 +3,7 @@ layout: archive
 title: "🌟 Miscellaneous"
 permalink: /misc/
 author_profile: true
+page_bg: "#EFF8F1"
 ---
 
 {% include base_path %}

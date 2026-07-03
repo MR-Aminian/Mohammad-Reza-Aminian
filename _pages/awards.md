@@ -3,6 +3,7 @@ layout: archive
 title: "Honors and Awards"
 permalink: /awards/
 author_profile: true
+page_bg: "#FAF6EA"
 ---
 
 <!-- 
