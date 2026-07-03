@@ -19,7 +19,6 @@ page_bg: "#F5F2FA"
 
 
 
-
 Ongoing Projects:
 -----------------
 
