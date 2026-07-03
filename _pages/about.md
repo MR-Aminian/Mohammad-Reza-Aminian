@@ -14,6 +14,8 @@ redirect_from:
 
 I'm **Mohammad Reza**—a fifth-year Ph.D. candidate in *Management Sciences / Operations Management* at the **University of Chicago Booth School of Business**, where I am very glad to have Prof. Rad Niazadeh as my advisor. I also hold an M.B.A. from **Chicago Booth**, along with dual B.Sc. degrees in *Electrical Engineering* and *Computer Science* from **Sharif University of Technology**.
 
+<p style="color:red;"><strong>I am on the academic job market for 2026–27.</strong></p>
+
 <!-- I'm Mohammad Reza, a 5th year Ph.D. student in the Management Sciences / Operations Management area at the University of Chicago, Booth School of Business, where I am very glad to have Prof. Rad Niazadeh as my advisor. I recently earned my M.B.A. degree from Booth. Prior to that, I received my B.Sc. degrees in both Electrical Engineering and Computer Science from Sharif University of Technology.  -->
 
 This site offers a concise overview of my academic work, teaching experience, presentations, recognitions, and personal interests. Thanks for stopping by!
