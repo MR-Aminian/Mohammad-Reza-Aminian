@@ -57,6 +57,7 @@ Working Papers:
 
 
 
+
 <!-- * [Online Job Selection: Reward Rate vs. Remaining Value (formerly Real-Time Personalized Order Holding)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4644495):\
   Designing practical approximation algorithms for the online order holding problem to enjoy the benefits of catching cancellations and multiorder consolidations. SSRN: 4644495\
   with Will Ma (Columbia GSB) and Linwei Xin (Chicago Booth)\
@@ -86,7 +87,7 @@ Publications:
 - **[Markovian Search with Ex-Ante Constraints: Theory and Applications to Socially Aware Algorithmic Hiring](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4347447)**  
   Design socially-responsible sequential search framework for algorithmic hiring and resource allocation. Develop dual-adjusted index policies and primal-dual algorithms to satisfy ex-ante constraints efficiently.  
   *with Vahideh Manshadi (Yale SOM) and Rad Niazadeh (Chicago Booth)*  
-  Accepted at *Management Science*, *EAAMO 2024*  
+  Accepted at *[Management Science](https://pubsonline.informs.org/doi/10.1287/mnsc.2023.04079)*, *EAAMO 2024*  
   - Featured in *Chicago Booth Review*:  
     [Algorithms and AI Can Make Hiring More Diverse](https://www.chicagobooth.edu/review/algorithms-ai-can-make-hiring-more-diverse)  
   - Third Place, IBM Service Science Best Student Paper Award — INFORMS Annual Meeting 2023
