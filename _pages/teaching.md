@@ -3,7 +3,7 @@ layout: archive
 title: "Work and Teaching"
 permalink: /teaching/
 author_profile: true
-page_bg: "#FBF3EC"
+page_bg: "#F5F2FA"
 ---
 
 <!-- {% include base_path %}

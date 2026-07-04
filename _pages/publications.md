@@ -3,7 +3,7 @@ layout: archive
 title: "Research Experience"
 permalink: /publications/
 author_profile: true
-page_bg: "#F5F2FA"
+page_bg: "#FAF6EA"
 ---
 
 <!-- {% if author.googlescholar %}

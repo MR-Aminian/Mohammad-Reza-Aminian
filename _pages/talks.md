@@ -4,7 +4,7 @@ layout: archive
 title: "Presentations"
 permalink: /talks/
 author_profile: true
-page_bg: "#EFF5FB"
+page_bg: "#FBF3EC"
 ---
 <!-- 
 {% if site.talkmap_link == true %}
