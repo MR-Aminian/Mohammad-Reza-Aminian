@@ -93,6 +93,18 @@ Publications:
 
 
 
+Workshop Notes:
+---------------
+
+- **[Magicians Don't Move: An Easy Peasy OCRS](https://pranavnuti.com/Magician%27s%20Don%27t%20Move.pdf)**  
+Prepared for Easy Peasy workshop at EC 2026, based on Stationary Online Contention Resolution Schemes.
+*with Rad Niazadeh (Chicago Booth), Pranav Nuti (Chicago Booth)*
+
+
+- **[A Match Made by Entropy](https://pranavnuti.com/A%20Match%20Made%20by%20Entropy.pdf)**  
+Prepared for Easy Peasy workshop at EC 2026, based on Stationary Online Contention Resolution Schemes.
+*with Rad Niazadeh (Chicago Booth), Pranav Nuti (Chicago Booth)*
+
 
 <!-- Earlier Research:
 -----------------
