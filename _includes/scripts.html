@@ -13,7 +13,9 @@ document.addEventListener('DOMContentLoaded', function () {
     } catch (e) {
       return;
     }
-    if (url.hostname && url.hostname !== window.location.hostname) {
+    var isExternal = url.hostname && url.hostname !== window.location.hostname;
+    var isDownload = /\.(pdf|docx?|pptx?|xlsx?|zip)$/i.test(url.pathname);
+    if (isExternal || isDownload) {
       link.setAttribute('target', '_blank');
       link.setAttribute('rel', 'noopener noreferrer');
     }
