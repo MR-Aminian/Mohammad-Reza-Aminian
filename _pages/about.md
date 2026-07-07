@@ -31,7 +31,7 @@ I study online decision-making under uncertainty in settings where algorithmic c
 
 Methodologically, I develop models, policies, and insights, drawing on online algorithms, stochastic optimization, mechanism and information design, learning, and game theory to inform the design of efficient, adaptive, and human-centered operational systems.
 
-*Paper-level details, working papers, and workshop notes are on the [Research page](/publications/).*
+*Paper-level details, working papers, and workshop notes are on the [Research page](publications/).*
 
 
 💡 Research Vision: AI and the Future of Education
@@ -50,13 +50,13 @@ To me, this is also an operations problem: if AI can absorb more of the routine 
 - **EC 2026** — *Stationary Online Contention Resolution Schemes*, accepted for publication.
 
 **Upcoming Talks**
-- **EC 2026**, July 8, 2026 — *Stationary Online Contention Resolution Schemes*, presented by my advisor, Rad Niazadeh.
-- **MSOM 2026**, July 13, 2026 — *Fundraising for Education: Mitigating Project Starvation via Dynamic Assortment and Online Contention Resolution*, presented by me.
+- **RMP 2026**, July 22, 2026 — *Fundraising for Education: Mitigating Project Starvation via Dynamic Assortment and OCRS*, presented by me (Day 2, Block 3, 1:50–3:10 PM, Room R1240).
+- **RMP 2026**, July 22, 2026 — *Stationary Online Contention Resolution for Reusable Resource Allocation*, presented by my coauthor Pranav Nuti (Day 2, Block 4, 3:30–5:10 PM, Room R1230).
+- **MSOM 2026**, July 13, 2026 — *Fundraising for Education: Mitigating Project Starvation via Dynamic Assortment and Online Contention Resolution*, presented by me (Day 1, Session MA3, Aldrich 208, 8:30–10:00 AM).
 - **MSOM 2026 (poster)** — *Stationary Online Contention Resolution for Reusable Resource Allocation*, presented by my coauthor Pranav Nuti.
-- **RMP 2026**, July 22, 2026 — *Fundraising for Education: Mitigating Project Starvation via Dynamic Assortment and OCRS*, presented by me.
-- **RMP 2026**, July 22, 2026 — *Stationary Online Contention Resolution for Reusable Resource Allocation*, presented by my coauthor Pranav Nuti.
+- **EC 2026**, July 8, 2026 — *Stationary Online Contention Resolution Schemes*, presented by my advisor, Rad Niazadeh (Room B, 14:00–15:30).
 
-*For the full list of talks, including past ones, see the [Presentations page](/talks/).*
+*For the full list of talks, including past ones, see the [Presentations page](talks/).*
 
 
 📬 Contact
