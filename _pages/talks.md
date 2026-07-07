@@ -24,6 +24,13 @@ page_bg: "#FBF3EC"
 
 I’ve had the opportunity to present my research across a range of academic conferences, workshops, and seminars. Below is a selection of talks organized by project:
 
+
+---
+
+## 📌 Fundraising for Education: Optimizing Crowdfunding Platforms
+- RMP 2026 — Ann Arbor, MI, USA  
+- MSOM 2026 — Boston, MA, USA  
+
 ---
 
 ## 📌 Responsible Decision Making in Operations: Algorithms for Social Impact
