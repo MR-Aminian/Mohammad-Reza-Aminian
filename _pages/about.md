@@ -46,8 +46,8 @@ To me, this is also an operations problem: if AI can absorb more of the routine 
 -------
 
 **Recent Acceptances**
-- **Management Science** — *Markovian Search with Ex-Ante Constraints: Theory and Applications to Socially Aware Algorithmic Hiring*, accepted for publication.
 - **EC 2026** — *Stationary Online Contention Resolution Schemes*, accepted for publication.
+- **Management Science** — *Markovian Search with Ex-Ante Constraints: Theory and Applications to Socially Aware Algorithmic Hiring*, accepted for publication.
 
 **Upcoming Talks**
 - **RMP 2026**, July 22, 2026 — *Fundraising for Education: Mitigating Project Starvation via Dynamic Assortment and OCRS*, presented by me (Day 2, Block 3, 1:50–3:10 PM, Room R1240).
