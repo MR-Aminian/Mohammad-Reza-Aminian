@@ -35,7 +35,7 @@ I’ve had the opportunity to present my research across a range of academic con
 
 ## 📌 Responsible Decision Making in Operations: Algorithms for Social Impact
 - Chicago OPS Day 2026 (Poster) — Chicago, IL, USA
-- Rising Stars Workshop 2026 — Ann Arbor, MI, USA
+- Rising Stars Workshop 2026 (Poster) — Ann Arbor, MI, USA
 
 ---
 
