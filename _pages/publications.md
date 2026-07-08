@@ -45,15 +45,6 @@ Working Papers:
   Accepted at *EC 2026*
 
 
-- **[Online Job Selection: Reward Rate vs. Remaining Value (formerly Real-Time Personalized Order Holding)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4644495)**  
-  Introduce an online resource allocation framework and index-based policies with theoretical guarantees to optimize the trade-off between keeping an ongoing job to harvest its remaining value vs. preempting it to serve a new request in limited capacity systems.  
-  *with Will Ma (Columbia GSB) and Linwei Xin (Chicago Booth)*  
-  Minor at *Management Science*  
-  - Featured in *Chicago Booth Review*:  
-    [At the E-Commerce Warehouse, a Distribution Dilemma](https://www.chicagobooth.edu/review/at-e-commerce-warehouse-distribution-dilemma)  
-    [How E-commerce Platforms Should Deal with Your Multiple Orders](https://www.chicagobooth.edu/review/how-e-commerce-platforms-should-deal-your-multiple-orders)
-
-
 
 
 
@@ -82,6 +73,15 @@ Working Papers:
 
 Publications:
 -------------
+
+- **[Online Job Selection: Reward Rate vs. Remaining Value (formerly Real-Time Personalized Order Holding)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4644495)**  
+  Introduce an online resource allocation framework and index-based policies with theoretical guarantees to optimize the trade-off between keeping an ongoing job to harvest its remaining value vs. preempting it to serve a new request in limited capacity systems.  
+  *with Will Ma (Columbia GSB) and Linwei Xin (Chicago Booth)*  
+  Accepted at *Management Science*  
+  - Featured in *Chicago Booth Review*:  
+    [At the E-Commerce Warehouse, a Distribution Dilemma](https://www.chicagobooth.edu/review/at-e-commerce-warehouse-distribution-dilemma)  
+    [How E-commerce Platforms Should Deal with Your Multiple Orders](https://www.chicagobooth.edu/review/how-e-commerce-platforms-should-deal-your-multiple-orders)
+
 
 - **[Markovian Search with Ex-Ante Constraints: Theory and Applications to Socially Aware Algorithmic Hiring](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4347447)**  
   Design socially-responsible sequential search framework for algorithmic hiring and resource allocation. Develop dual-adjusted index policies and primal-dual algorithms to satisfy ex-ante constraints efficiently.  
