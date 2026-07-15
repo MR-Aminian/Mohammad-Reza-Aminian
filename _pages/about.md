@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "A Brief Introduction"
+title: "👋 Greetings!"
 google-site-verification: "7llBgV3dOtYJqPFk190VXTfRs4Ga_FJ6ex2t2MqTtCw"
 excerpt: "About me"
 author_profile: true
@@ -10,9 +10,6 @@ redirect_from:
   - /about.html
 ---
 
-👋 Greetings!
-------------
-
 I'm **Mohammad Reza**—a fifth-year Ph.D. candidate in *Management Sciences / Operations Management* at the University of Chicago Booth School of Business, advised by Prof. Rad Niazadeh. I hold an M.B.A. from Chicago Booth and dual B.Sc. degrees in *Electrical Engineering* and *Computer Science* from Sharif University of Technology.
 
 <p style="color:purple;"><strong>I am on the academic job market for 2026–27.</strong></p>
@@ -21,19 +18,19 @@ I'm **Mohammad Reza**—a fifth-year Ph.D. candidate in *Management Sciences / O
 
 My research broadly studies algorithmic challenges in (i) socially responsible operations of platforms and non-profit organizations, and (ii) the intersection of operations research and education. In particular, I work on designing and analyzing online algorithms and mechanisms for human-centric decision making in applications such as algorithmic hiring, resource allocation, and crowdfunding for education.
 
-This site is a window into my research, teaching, presentations, honors and awards, service, and a few personal interests—thanks for stopping by!
+<!-- This site is a window into my research, teaching, presentations, honors and awards, service, and a few personal interests—thanks for stopping by! -->
 
 
 📄 Papers
 ----------
 
 **Published/Accepted Papers**
-- **[Online Job Selection: Reward Rate vs. Remaining Value](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4644495)** — accepted at *Management Science*
-- **[Markovian Search with Ex-Ante Constraints: Theory and Applications to Socially Aware Algorithmic Hiring](https://pubsonline.informs.org/doi/10.1287/mnsc.2023.04079)** — accepted at *Management Science*, *EAAMO 2024*
+- **[Online Job Selection: Reward Rate vs. Remaining Value](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4644495)** — **Forthcoming in MS**
+- **[Markovian Search with Ex-Ante Constraints: Theory and Applications to Socially Aware Algorithmic Hiring](https://pubsonline.informs.org/doi/10.1287/mnsc.2023.04079)** — **Forthcoming in MS**, **Appeared in EAAMO 2024**
 
 **Working Papers**
-- **Fundraising for Education: Optimizing Crowdfunding Platforms** *(Job Market Paper)* — *with Rad Niazadeh (Chicago Booth)*. PDF available upon request.
-- **[Stationary Online Contention Resolution Schemes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6384199)** — accepted at *EC 2026*
+- **Fundraising for Education: Optimizing Crowdfunding Platforms** <span style="color:purple;"><strong>(Job Market Paper)</strong></span> — *with Rad Niazadeh (Chicago Booth)*. PDF available upon request.
+- **[Stationary Online Contention Resolution Schemes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6384199)** — **Appeared in EC 2026**
 - **[Optimal Bayesian Online Allocation of Reusable Resources](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6384158)**
 
 *Abstracts, my research overview and vision, and workshop notes are on the [Research page](publications/).*
@@ -42,14 +39,7 @@ This site is a window into my research, teaching, presentations, honors and awar
 📰 News
 -------
 
-**Recent Acceptances**
-- **Management Science** — *Online Job Selection: Reward Rate vs. Remaining Value*, accepted for publication.
-- **EC 2026** — *Stationary Online Contention Resolution Schemes*, accepted for publication.
-- **Management Science** — *Markovian Search with Ex-Ante Constraints: Theory and Applications to Socially Aware Algorithmic Hiring*, accepted for publication.
-
-**Upcoming Talks**
-
-*If you're curious about our recent work, you are welcome to attend the following presentations by me or my wonderful coauthors:*
+*If you're curious about our recent work, you are welcome to attend the following upcoming presentations by me or my wonderful coauthors:*
 
 - **RMP 2026**, July 22, 2026 — *Fundraising for Education: Mitigating Project Starvation via Dynamic Assortment and OCRS*, presented by me (Day 2, Block 3, 1:50–3:10 PM, Room R1240).
 - **RMP 2026**, July 22, 2026 — *Stationary Online Contention Resolution for Reusable Resource Allocation*, presented by my coauthor Pranav Nuti (Day 2, Block 4, 3:30–5:10 PM, Room R1230).

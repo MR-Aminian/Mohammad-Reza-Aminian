@@ -34,22 +34,40 @@ To me, this is also an operations problem: if AI can absorb more of the routine 
 
 
 
-Ongoing Projects:
------------------
-
-- **Fundraising for Education: Optimizing Crowdfunding Platforms**  
-  Design dynamic assortment policies for crowdfunding platforms to prevent “project starvation” and maximize the value of fully funded campaigns.  
-  *with Rad Niazadeh (Chicago Booth)*
-
-
-
 <!-- * Order Consolidation:   -->
 <!-- Finding an approximation algorithm for order consolidation with a tight competitive ratio.   -->
 <!-- Co-authors: Will Ma (Columbia GSB), Linwei Xin (Chicago Booth) -->
 
 
+Published/Accepted Papers:
+--------------------------
+
+- **[Online Job Selection: Reward Rate vs. Remaining Value (formerly Real-Time Personalized Order Holding)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4644495)**  
+  Introduce an online resource allocation framework and index-based policies with theoretical guarantees to optimize the trade-off between keeping an ongoing job to harvest its remaining value vs. preempting it to serve a new request in limited capacity systems.  
+  *with Will Ma (Columbia GSB) and Linwei Xin (Chicago Booth)*  
+  **Forthcoming in MS**  
+  - Featured in *Chicago Booth Review*:  
+    [At the E-Commerce Warehouse, a Distribution Dilemma](https://www.chicagobooth.edu/review/at-e-commerce-warehouse-distribution-dilemma)  
+    [How E-commerce Platforms Should Deal with Your Multiple Orders](https://www.chicagobooth.edu/review/how-e-commerce-platforms-should-deal-your-multiple-orders)
+
+
+- **[Markovian Search with Ex-Ante Constraints: Theory and Applications to Socially Aware Algorithmic Hiring](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4347447)**  
+  Design socially-responsible sequential search framework for algorithmic hiring and resource allocation. Develop dual-adjusted index policies and primal-dual algorithms to satisfy ex-ante constraints efficiently.  
+  *with Vahideh Manshadi (Yale SOM) and Rad Niazadeh (Chicago Booth)*  
+  **[Forthcoming in MS](https://pubsonline.informs.org/doi/10.1287/mnsc.2023.04079)**, **Appeared in EAAMO 2024**  
+  - Featured in *Chicago Booth Review*:  
+    [Algorithms and AI Can Make Hiring More Diverse](https://www.chicagobooth.edu/review/algorithms-ai-can-make-hiring-more-diverse)  
+  - Third Place, IBM Service Science Best Student Paper Award — INFORMS Annual Meeting 2023
+
+
+
 Working Papers:
 ---------------
+
+- **Fundraising for Education: Optimizing Crowdfunding Platforms** <span style="color:purple;"><strong>(Job Market Paper)</strong></span>  
+  Design dynamic assortment policies for crowdfunding platforms to prevent “project starvation” and maximize the value of fully funded campaigns.  
+  *with Rad Niazadeh (Chicago Booth)*  
+  PDF available upon request.
 
 - **[Optimal Bayesian Online Allocation of Reusable Resources](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6384158)**  
   Generalize classical online resource allocation theory to the reusable setting by developing a time-invariant admission policy that guarantees ex-post feasibility and matches the information-theoretic tight bounds of non-reusable models.  
@@ -58,7 +76,7 @@ Working Papers:
 - **[Stationary Online Contention Resolution Schemes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6384199)**  
   Create the S-OCRS framework to unify the design of online selection algorithms, achieving optimal selectability and resolving open problems across various feasibility environments, like matchings and matroids.   
   *with Rad Niazadeh (Chicago Booth), Pranav Nuti (Chicago Booth)*   
-  Accepted at *EC 2026*
+  **Appeared in EC 2026**
 
 
 
@@ -84,28 +102,6 @@ Working Papers:
 <!-- Incorporating demographic parity fairness notion in different aspects and variations of the sequential search problem, SSRN: 4347447.   -->
 <!-- Co-authors: Vahideh Manshadi (Yale SOM), Rad Niazadeh (Chicago Booth) -->
 
-
-
-
-Publications:
--------------
-
-- **[Online Job Selection: Reward Rate vs. Remaining Value (formerly Real-Time Personalized Order Holding)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4644495)**  
-  Introduce an online resource allocation framework and index-based policies with theoretical guarantees to optimize the trade-off between keeping an ongoing job to harvest its remaining value vs. preempting it to serve a new request in limited capacity systems.  
-  *with Will Ma (Columbia GSB) and Linwei Xin (Chicago Booth)*  
-  Accepted at *Management Science*  
-  - Featured in *Chicago Booth Review*:  
-    [At the E-Commerce Warehouse, a Distribution Dilemma](https://www.chicagobooth.edu/review/at-e-commerce-warehouse-distribution-dilemma)  
-    [How E-commerce Platforms Should Deal with Your Multiple Orders](https://www.chicagobooth.edu/review/how-e-commerce-platforms-should-deal-your-multiple-orders)
-
-
-- **[Markovian Search with Ex-Ante Constraints: Theory and Applications to Socially Aware Algorithmic Hiring](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4347447)**  
-  Design socially-responsible sequential search framework for algorithmic hiring and resource allocation. Develop dual-adjusted index policies and primal-dual algorithms to satisfy ex-ante constraints efficiently.  
-  *with Vahideh Manshadi (Yale SOM) and Rad Niazadeh (Chicago Booth)*  
-  Accepted at *[Management Science](https://pubsonline.informs.org/doi/10.1287/mnsc.2023.04079)*, *EAAMO 2024*  
-  - Featured in *Chicago Booth Review*:  
-    [Algorithms and AI Can Make Hiring More Diverse](https://www.chicagobooth.edu/review/algorithms-ai-can-make-hiring-more-diverse)  
-  - Third Place, IBM Service Science Best Student Paper Award — INFORMS Annual Meeting 2023
 
 
 
