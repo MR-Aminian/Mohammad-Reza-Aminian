@@ -18,6 +18,22 @@ page_bg: "#FAF6EA"
 
 
 
+**Algorithms that allocate scarce resources should serve the people on the other end of the decision, not just optimize a number.**
+
+I study online decision-making under uncertainty in settings where algorithmic choices shape access, fairness, opportunity, and long-term social value. My work focuses on socially responsible and behaviorally aware algorithms for operations, with applications in hiring, education, nonprofit operations, platform design, and other human-centric systems.
+
+Methodologically, I develop models, policies, and insights, drawing on online algorithms, stochastic optimization, mechanism and information design, learning, and game theory to inform the design of efficient, adaptive, and human-centered operational systems.
+
+
+💡 Research Vision: AI and the Future of Education
+----------------------------------------------------
+
+As AI increasingly absorbs content delivery and personalized instruction, what should schools shift their focus to? Some of what students need most remains deeply human: belonging and teamwork, aspiration and motivation, the freedom to discover their own interests, and the cultivation of independent, analytical thinking.
+
+To me, this is also an operations problem: if AI can absorb more of the routine work, schools can better allocate teachers' and mentors' limited time to the students and moments where human judgment and connection matter most.
+
+
+
 Ongoing Projects:
 -----------------
 
