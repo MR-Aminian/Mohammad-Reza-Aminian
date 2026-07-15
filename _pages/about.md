@@ -21,10 +21,22 @@ I'm **Mohammad Reza**—a fifth-year Ph.D. candidate in *Management Sciences / O
 
 My research broadly studies algorithmic challenges in (i) socially responsible operations of platforms and non-profit organizations, and (ii) the intersection of operations research and education. In particular, I work on designing and analyzing online algorithms and mechanisms for human-centric decision making in applications such as algorithmic hiring, resource allocation, and crowdfunding for education.
 
-*Learn more about my research overview and vision on the [Research page](publications/).*
-
 This site is a window into my research, teaching, presentations, honors and awards, service, and a few personal interests—thanks for stopping by!
 
+
+📄 Papers
+----------
+
+**Published/Accepted Papers**
+- **[Online Job Selection: Reward Rate vs. Remaining Value](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4644495)** — accepted at *Management Science*
+- **[Markovian Search with Ex-Ante Constraints: Theory and Applications to Socially Aware Algorithmic Hiring](https://pubsonline.informs.org/doi/10.1287/mnsc.2023.04079)** — accepted at *Management Science*, *EAAMO 2024*
+
+**Working Papers**
+- **Fundraising for Education: Optimizing Crowdfunding Platforms** *(Job Market Paper)* — *with Rad Niazadeh (Chicago Booth)*. PDF available upon request.
+- **[Stationary Online Contention Resolution Schemes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6384199)** — accepted at *EC 2026*
+- **[Optimal Bayesian Online Allocation of Reusable Resources](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6384158)**
+
+*Abstracts, my research overview and vision, and workshop notes are on the [Research page](publications/).*
 
 
 📰 News
