@@ -45,7 +45,7 @@ Published/Accepted Papers:
 - **[Online Job Selection: Reward Rate vs. Remaining Value (formerly Real-Time Personalized Order Holding)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4644495)**  
   Introduce an online resource allocation framework and index-based policies with theoretical guarantees to optimize the trade-off between keeping an ongoing job to harvest its remaining value vs. preempting it to serve a new request in limited capacity systems.  
   *with Will Ma (Columbia GSB) and Linwei Xin (Chicago Booth)*  
-  **Forthcoming in MS**  
+  Forthcoming in **Management Science**  
   - Featured in *Chicago Booth Review*:  
     [At the E-Commerce Warehouse, a Distribution Dilemma](https://www.chicagobooth.edu/review/at-e-commerce-warehouse-distribution-dilemma)  
     [How E-commerce Platforms Should Deal with Your Multiple Orders](https://www.chicagobooth.edu/review/how-e-commerce-platforms-should-deal-your-multiple-orders)
@@ -54,7 +54,7 @@ Published/Accepted Papers:
 - **[Markovian Search with Ex-Ante Constraints: Theory and Applications to Socially Aware Algorithmic Hiring](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4347447)**  
   Design socially-responsible sequential search framework for algorithmic hiring and resource allocation. Develop dual-adjusted index policies and primal-dual algorithms to satisfy ex-ante constraints efficiently.  
   *with Vahideh Manshadi (Yale SOM) and Rad Niazadeh (Chicago Booth)*  
-  **[Forthcoming in MS](https://pubsonline.informs.org/doi/10.1287/mnsc.2023.04079)**, **Appeared in EAAMO 2024**  
+  Forthcoming in **[Management Science](https://pubsonline.informs.org/doi/10.1287/mnsc.2023.04079)**, Appeared in **EAAMO 2024**  
   - Featured in *Chicago Booth Review*:  
     [Algorithms and AI Can Make Hiring More Diverse](https://www.chicagobooth.edu/review/algorithms-ai-can-make-hiring-more-diverse)  
   - Third Place, IBM Service Science Best Student Paper Award — INFORMS Annual Meeting 2023
@@ -76,7 +76,7 @@ Working Papers:
 - **[Stationary Online Contention Resolution Schemes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6384199)**  
   Create the S-OCRS framework to unify the design of online selection algorithms, achieving optimal selectability and resolving open problems across various feasibility environments, like matchings and matroids.   
   *with Rad Niazadeh (Chicago Booth), Pranav Nuti (Chicago Booth)*   
-  **Appeared in EC 2026**
+  Appeared in **EC 2026**
 
 
 

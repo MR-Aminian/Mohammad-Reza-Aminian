@@ -25,18 +25,22 @@ My research broadly studies algorithmic challenges in (i) socially responsible o
 ----------
 
 **Published/Accepted Papers**
-- **[Online Job Selection: Reward Rate vs. Remaining Value](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4644495)** — **Forthcoming in MS** — *with Will Ma (Columbia GSB) and Linwei Xin (Chicago Booth)*
+- **[Online Job Selection: Reward Rate vs. Remaining Value](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4644495)** — Forthcoming in **Management Science** — *with Will Ma (Columbia GSB) and Linwei Xin (Chicago Booth)*
   - Featured in *Chicago Booth Review*: [At the E-Commerce Warehouse, a Distribution Dilemma](https://www.chicagobooth.edu/review/at-e-commerce-warehouse-distribution-dilemma), [How E-commerce Platforms Should Deal with Your Multiple Orders](https://www.chicagobooth.edu/review/how-e-commerce-platforms-should-deal-your-multiple-orders)
-- **[Markovian Search with Ex-Ante Constraints: Theory and Applications to Socially Aware Algorithmic Hiring](https://pubsonline.informs.org/doi/10.1287/mnsc.2023.04079)** — **Forthcoming in MS**, **Appeared in EAAMO 2024** — *with Vahideh Manshadi (Yale SOM) and Rad Niazadeh (Chicago Booth)*
+- **[Markovian Search with Ex-Ante Constraints: Theory and Applications to Socially Aware Algorithmic Hiring](https://pubsonline.informs.org/doi/10.1287/mnsc.2023.04079)** — Forthcoming in **Management Science**, Appeared in **EAAMO 2024** — *with Vahideh Manshadi (Yale SOM) and Rad Niazadeh (Chicago Booth)*
   - Featured in *Chicago Booth Review*: [Algorithms and AI Can Make Hiring More Diverse](https://www.chicagobooth.edu/review/algorithms-ai-can-make-hiring-more-diverse)
   - Third Place, IBM Service Science Best Student Paper Award — INFORMS Annual Meeting 2023
 
 **Working Papers**
 - **Fundraising for Education: Optimizing Crowdfunding Platforms** <span style="color:purple;"><strong>(Job Market Paper)</strong></span> — *with Rad Niazadeh (Chicago Booth)*. PDF available upon request.
 - **[Optimal Bayesian Online Allocation of Reusable Resources](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6384158)** — *with Rad Niazadeh (Chicago Booth) and Pranav Nuti (Chicago Booth)*
-- **[Stationary Online Contention Resolution Schemes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6384199)** — **Appeared in EC 2026** — *with Rad Niazadeh (Chicago Booth) and Pranav Nuti (Chicago Booth)*
+- **[Stationary Online Contention Resolution Schemes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6384199)** — Appeared in **EC 2026** — *with Rad Niazadeh (Chicago Booth) and Pranav Nuti (Chicago Booth)*
 
-*Abstracts, my research overview and vision, and workshop notes are on the [Research page](publications/).*
+**Workshop Notes**
+- **[Magicians Don't Move: An Easy Peasy OCRS](https://pranavnuti.com/Magician%27s%20Don%27t%20Move.pdf)** — *with Rad Niazadeh (Chicago Booth) and Pranav Nuti (Chicago Booth)*
+- **[A Match Made by Entropy](https://pranavnuti.com/A%20Match%20Made%20by%20Entropy.pdf)** — *with Rad Niazadeh (Chicago Booth) and Pranav Nuti (Chicago Booth)*
+
+*Abstracts, and my research overview and vision, are on the [Research page](publications/).*
 
 
 📰 News
