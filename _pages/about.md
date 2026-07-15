@@ -17,7 +17,9 @@ I'm **Mohammad Reza**—a fifth-year Ph.D. candidate in *Management Sciences / O
 
 <p style="color:purple;"><strong>I am on the academic job market for 2026–27.</strong></p>
 
-My research develops algorithms for online allocation, optimization, and mechanism design, with applications to socially responsible operations, education, nonprofits, and human-centric platforms.
+<!-- My research develops algorithms for online allocation, optimization, and mechanism design, with applications to socially responsible operations, education, nonprofits, and human-centric platforms. -->
+
+My research broadly studies algorithmic challenges in (i) socially responsible operations of platforms and non-profit organizations, and (ii) the intersection of operations research and education. In particular, I work on designing and analyzing online algorithms and mechanisms for human-centric decision making in applications such as algorithmic hiring, resource allocation, and crowdfunding for education.
 
 This site is a window into my research, teaching, presentations, honors and awards, service, and a few personal interests—thanks for stopping by!
 
