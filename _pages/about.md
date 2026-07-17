@@ -26,7 +26,7 @@ My research broadly studies algorithmic challenges in (i) socially responsible o
 
 **Published/Accepted Papers**
 - **[Online Job Selection: Reward Rate vs. Remaining Value](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4644495)** — Forthcoming in **Management Science** — *with Will Ma (Columbia GSB) and Linwei Xin (Chicago Booth)*
-  - Featured in *Chicago Booth Review*: [At the E-Commerce Warehouse, a Distribution Dilemma](https://www.chicagobooth.edu/review/at-e-commerce-warehouse-distribution-dilemma), [How E-commerce Platforms Should Deal with Your Multiple Orders](https://www.chicagobooth.edu/review/how-e-commerce-platforms-should-deal-your-multiple-orders)
+  - Featured in *Chicago Booth Review*: [At the E-Commerce Warehouse, a Distribution Dilemma](https://www.chicagobooth.edu/review/at-e-commerce-warehouse-distribution-dilemma); and [How E-commerce Platforms Should Deal with Your Multiple Orders](https://www.chicagobooth.edu/review/how-e-commerce-platforms-should-deal-your-multiple-orders)
 - **[Markovian Search with Ex-Ante Constraints: Theory and Applications to Socially Aware Algorithmic Hiring](https://pubsonline.informs.org/doi/10.1287/mnsc.2023.04079)** — Forthcoming in **Management Science**, Appeared in **EAAMO 2024** — *with Vahideh Manshadi (Yale SOM) and Rad Niazadeh (Chicago Booth)*
   - Featured in *Chicago Booth Review*: [Algorithms and AI Can Make Hiring More Diverse](https://www.chicagobooth.edu/review/algorithms-ai-can-make-hiring-more-diverse)
   - Third Place, IBM Service Science Best Student Paper Award — INFORMS Annual Meeting 2023
