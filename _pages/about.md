@@ -43,6 +43,7 @@ My research broadly studies algorithmic challenges in (i) socially responsible o
 *Abstracts, and my research overview and vision, are on the [Research page](publications/).*
 
 
+<!-- 
 📰 News
 -------
 
@@ -54,7 +55,7 @@ My research broadly studies algorithmic challenges in (i) socially responsible o
 - **MSOM 2026 (poster)** — *Stationary Online Contention Resolution for Reusable Resource Allocation*, presented by my coauthor Pranav Nuti.
 - **EC 2026**, July 8, 2026 — *Stationary Online Contention Resolution Schemes*, presented by my advisor, Rad Niazadeh (Room B, 14:00–15:30).
 
-*For the full list of talks, including past ones, see the [Presentations page](talks/).*
+*For the full list of talks, including past ones, see the [Presentations page](talks/).* -->
 
 
 📬 Contact
