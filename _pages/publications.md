@@ -76,7 +76,7 @@ Working Papers:
 - **[Stationary Online Contention Resolution Schemes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6384199)**  
   Create the S-OCRS framework to unify the design of online selection algorithms, achieving optimal selectability and resolving open problems across various feasibility environments, like matchings and matroids.   
   *with Rad Niazadeh (Chicago Booth), Pranav Nuti (Chicago Booth)*   
-  Appeared in **EC 2026**
+  Major Revision at **Operations Research**, Appeared in **EC 2026**
 
 
 

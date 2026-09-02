@@ -34,7 +34,7 @@ My research broadly studies algorithmic challenges in (i) socially responsible o
 **Working Papers**
 - **Fundraising for Education: Optimizing Crowdfunding Platforms** <span style="color:purple;"><strong>(Job Market Paper)</strong></span> — *with Rad Niazadeh (Chicago Booth)*. PDF available upon request.
 - **[Optimal Bayesian Online Allocation of Reusable Resources](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6384158)** — *with Rad Niazadeh (Chicago Booth) and Pranav Nuti (Chicago Booth)*
-- **[Stationary Online Contention Resolution Schemes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6384199)** — Appeared in **EC 2026** — *with Rad Niazadeh (Chicago Booth) and Pranav Nuti (Chicago Booth)*
+- **[Stationary Online Contention Resolution Schemes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6384199)** — Major Revision at **Operations Research**, Appeared in **EC 2026** — *with Rad Niazadeh (Chicago Booth) and Pranav Nuti (Chicago Booth)*
 
 **Workshop Notes**
 - **[Magicians Don't Move: An Easy Peasy OCRS](https://pranavnuti.com/Magician%27s%20Don%27t%20Move.pdf)** — *with Rad Niazadeh (Chicago Booth) and Pranav Nuti (Chicago Booth)*
