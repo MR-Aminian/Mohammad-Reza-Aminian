@@ -28,6 +28,7 @@ I’ve had the opportunity to present my research across a range of academic con
 ---
 
 ## 📌 Fundraising for Education: Optimizing Crowdfunding Platforms
+- INFORMS 2026 — San Francisco, CA, USA  
 - RMP 2026 — Ann Arbor, MI, USA  
 - MSOM 2026 — Boston, MA, USA  
 
