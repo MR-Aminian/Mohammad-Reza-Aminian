@@ -64,7 +64,7 @@ Published/Accepted Papers:
 Working Papers:
 ---------------
 
-- **Fundraising for Education: Optimizing Crowdfunding Platforms** <span style="color:purple;"><strong>(Job Market Paper)</strong></span>  
+- **[Fundraising for Education: Optimizing Crowdfunding Platforms](https://mr-aminian.github.io/Mohammad-Reza-Aminian/jmp/)** <span style="color:purple;"><strong>(Job Market Paper)</strong></span>  
   Design dynamic assortment policies for crowdfunding platforms to prevent “project starvation” and maximize the value of fully funded campaigns.  
   *with Rad Niazadeh (Chicago Booth)*  
   PDF available upon request.

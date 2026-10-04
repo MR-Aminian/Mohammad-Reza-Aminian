@@ -32,7 +32,7 @@ My research broadly studies algorithmic challenges in (i) socially responsible o
   - Third Place, IBM Service Science Best Student Paper Award — INFORMS Annual Meeting 2023
 
 **Working Papers**
-- **Fundraising for Education: Optimizing Crowdfunding Platforms** <span style="color:purple;"><strong>(Job Market Paper)</strong></span> — *with Rad Niazadeh (Chicago Booth)*. PDF available upon request.
+- **[Fundraising for Education: Optimizing Crowdfunding Platforms](https://mr-aminian.github.io/Mohammad-Reza-Aminian/jmp/)** <span style="color:purple;"><strong>(Job Market Paper)</strong></span> — *with Rad Niazadeh (Chicago Booth)*. PDF available upon request.
 - **[Optimal Bayesian Online Allocation of Reusable Resources](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6384158)** — *with Rad Niazadeh (Chicago Booth) and Pranav Nuti (Chicago Booth)*
 - **[Stationary Online Contention Resolution Schemes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6384199)** — Major Revision at **Operations Research**, Appeared in **EC 2026** — *with Rad Niazadeh (Chicago Booth) and Pranav Nuti (Chicago Booth)*
   - Finalist, Michael H. Rothkopf Junior Researcher Paper Prize — INFORMS Auctions and Market Design (AMD) Section (Entrant: Pranav Nuti)
