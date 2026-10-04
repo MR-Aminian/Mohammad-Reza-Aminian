@@ -5,9 +5,12 @@ permalink: /jmp/
 author_profile: true
 page_bg: "#FAF6EA"
 excerpt: "Fundraising for Education: Optimizing Crowdfunding Platforms, the job market paper of Mohammad Reza Aminian, with Rad Niazadeh. The full paper will be posted here very soon."
-# When the paper is ready: add the PDF to the files/ folder as Aminian_JMP.pdf,
-# then uncomment the line below. This same link will then open the PDF directly.
-# redirect_to: /files/Aminian_JMP.pdf
+# When the paper is ready (no plugin needed):
+#   1. Add the PDF to the files/ folder as Aminian_JMP.pdf.
+#   2. Replace all the text below the closing --- line with these two lines:
+#      <meta http-equiv="refresh" content="0; url=https://mr-aminian.github.io/Mohammad-Reza-Aminian/files/Aminian_JMP.pdf">
+#      Opening the paper. If it does not open, [click here](https://mr-aminian.github.io/Mohammad-Reza-Aminian/files/Aminian_JMP.pdf).
+# This same link will then open the PDF directly.
 ---
 
 ## Fundraising for Education: Optimizing Crowdfunding Platforms
