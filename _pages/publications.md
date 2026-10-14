@@ -66,8 +66,7 @@ Working Papers:
 
 - **[Fundraising for Education: Optimizing Crowdfunding Platforms](https://mr-aminian.github.io/Mohammad-Reza-Aminian/jmp/)** <span style="color:purple;"><strong>(Job Market Paper)</strong></span>  
   Design dynamic assortment policies for crowdfunding platforms to prevent “project starvation” and maximize the value of fully funded campaigns.  
-  *with Rad Niazadeh (Chicago Booth)*  
-  PDF available upon request.
+  *with Rad Niazadeh (Chicago Booth)*
 
 - **[Optimal Bayesian Online Allocation of Reusable Resources](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6384158)**  
   Generalize classical online resource allocation theory to the reusable setting by developing a time-invariant admission policy that guarantees ex-post feasibility and matches the information-theoretic tight bounds of non-reusable models.  
