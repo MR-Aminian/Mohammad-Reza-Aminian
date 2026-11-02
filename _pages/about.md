@@ -22,6 +22,12 @@ My research centers on socially responsible operations—how operational decisio
 
 <!-- This site is a window into my research, teaching, presentations, honors and awards, service, and a few personal interests—thanks for stopping by! -->
 
+* I am presenting my recent work on **[Fundraising for Education: Optimizing Crowdfunding Platforms](https://mr-aminian.github.io/Mohammad-Reza-Aminian/jmp/)** at the 2026 INFORMS Annual Meeting:
+
+Fundraising for Education: Mitigating Project Starvation via Dynamic Assortment and Online Contention Resolution Dynamic Decision-Making in Markets and Service Systems (first talk)  
+
+Tuesday, November 3; 1:15–1:30 PM; Moscone South-62 (Lower Mezz)
+
 
 📄 Papers
 ----------
